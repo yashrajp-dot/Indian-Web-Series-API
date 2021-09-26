@@ -15,4 +15,20 @@
     "seasons": 2,
     "releaseDate": "16-04-2019"
   }
+  {
+    "id": 2,
+    "name": "The Family Man",
+    "rating": 8.8,
+    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+    "category": ["Comedy", "Drama","Action"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Manoj Bajpayee","Samantha Akkineni", "Priyamani", "Sharib Hashmi", "Ashlesha Thakur", "Vedant Sinha", "Shahab Ali", "Shreya Dhanwanthary"],
+      "director": ["Krishna D.K.","Raj Nidimoru","Suparn Varma"]
+    },
+    "poster": "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
+    "episodeCount": 19,
+    "seasons": 2,
+    "releaseDate": "20 September 2019"
+  }
 ]
