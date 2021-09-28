@@ -14,21 +14,565 @@
     "episodeCount": 10,
     "seasons": 2,
     "releaseDate": "16-04-2019"
-  }
+  },
   {
     "id": 2,
     "name": "The Family Man",
     "rating": 8.8,
     "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
-    "category": ["Comedy", "Drama","Action"],
+    "category": ["Comedy", "Drama", "Action"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Manoj Bajpayee","Samantha Akkineni", "Priyamani", "Sharib Hashmi", "Ashlesha Thakur", "Vedant Sinha", "Shahab Ali", "Shreya Dhanwanthary"],
-      "director": ["Krishna D.K.","Raj Nidimoru","Suparn Varma"]
+      "actors": ["Manoj Bajpayee", "Samantha Akkineni", "Priyamani", "Sharib Hashmi", "Ashlesha Thakur", "Vedant Sinha", "Shahab Ali", "Shreya Dhanwanthary"],
+      "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"]
     },
     "poster": "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
     "episodeCount": 19,
     "seasons": 2,
     "releaseDate": "20 September 2019"
+  },
+  {
+    "id": 3,
+    "name": "Mirzapur",
+    "rating": 8.4,
+    "description": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur",
+    "category": ["Crime", "Drama", "Action"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Pankaj Tripathi", "Ali Fazal", "Divyendu Sharma", "Shweta Tripathi", "Kulbhushan Kharbanda", "Rasika Dugal"],
+      "director": ["Gurmmeet Singh", "Mihir Desai", "Karan Anshuman"]
+    },
+    "poster": "https://www.imdb.com/title/tt6473300/mediaviewer/rm3373062913/",
+    "episodeCount": 19,
+    "seasons": 2,
+    "releaseDate": "15 November 2018"
+  },
+  {
+    "id": 4,
+    "name": "TVF Pitchers",
+    "rating": 9.1,
+    "description": "A story of trials and tribulations of four young entrepreneurs who quit their day jobs in order to pursue their start up venture.",
+    "category": ["Comedy", "Drama"],
+    "platform": "TVF Play",
+    "casting": {
+      "actors": ["Naveen Kasturia", "Arunabh Kumar", "Jitendra Kumar", "Abhay Mahajan", "Akanksha Thakur", "Maanvi Gagroo"],
+      "director": ["Amit Golani"]
+    },
+    "poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
+    "episodeCount": 5,
+    "seasons": 1,
+    "releaseDate": "3 June 2015"
+  },
+  {
+    "id": 5,
+    "name": "Sacred Games",
+    "rating": 8.6,
+    "description": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm",
+    "category": ["Crime", "Drama", "Action"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Saif Ali Khan", "Nawazuddin Siddiqui", "Neeraj Kabi", "Elnaaz Norouzi", "Aamir Bashir", "Pankaj Tripathi", "Radhika Apte", "Jitendra Joshi"],
+      "director": ["Anurag Kashyap"]
+    },
+    "poster": "https://www.imdb.com/title/tt6077448/mediaviewer/rm1135188993/?ref_=tt_ov_i",
+    "episodeCount": 16,
+    "seasons": 2,
+    "releaseDate": "6 July 2018"
+  },
+  {
+    "id": 6,
+    "name": "Special OPS",
+    "rating": 8.6,
+    "description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
+    "category": ["Crime", "Thriller", "Action"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": ["Kay Kay Menon", "Karan Tacker", "Gautami Kapoor", "Vinay Pathak", "Meher Vij"],
+      "director": ["Neeraj Pandey", "Shivam Nair"]
+    },
+    "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "16 March 2020"
+  },
+  {
+    "id": 7,
+    "name": "Asur: Welcome to Your Dark Side",
+    "rating": 8.5,
+    "description": "A unique crime thriller that pits two opposing worlds against each other. The less explored, intricate world of forensic science and the deep mysticism of ancient Indian Mythology.",
+    "category": ["Crime", "Drama", "Mystery"],
+    "platform": "Voot",
+    "casting": {
+      "actors": ["Arshad Warsi", "Barun Sobti", "Riddhi Dogra", "Anupriya Goenka", "Amey Wagh"],
+      "director": ["Oni Sen"]
+    },
+    "poster": "https://www.imdb.com/title/tt11912196/mediaviewer/rm1168488705/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "2 March 2020"
+  },
+  {
+    "id": 8,
+    "name": "Paatal Lok",
+    "rating": 7.8,
+    "description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a journalist. The pursuit of it leads him to 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+    "category": ["Crime", "Drama", "Thriller"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Jaideep Ahlawat", "Neeraj Kabi", "Ishwak Singh", "Abhishek Banerjee", "Jagjeet Sandhu"],
+      "director": ["Avinash Arun", "Prosit Roy"]
+    },
+    "poster": "https://www.imdb.com/title/tt9680440/mediaviewer/rm2207495681/",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "15 May 2020"
+  },
+  {
+    "id": 9,
+    "name": "SCAM 1992: The Harshad Mehta Story",
+    "rating": 9.5,
+    "description": "Set in 1980's and 90's Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+    "category": ["Crime", "Drama", "Biography"],
+    "platform": "Sony Liv",
+    "casting": {
+      "actors": ["Pratik Gandhi", "Shreya Dhanwanthary", "Anjali Barot", "Chirag Vohra", "Anant Mahadevan"],
+      "director": ["Hansal Mehta", "Jai Mehta"]
+    },
+    "poster": "https://www.imdb.com/title/tt12392504/mediaviewer/rm2407113985/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "10 October 2020"
+  },
+  {
+    "id": 10,
+    "name": "Panchayat",
+    "rating": 8.8,
+    "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+    "category": ["Comedy", "Drama"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Jitendra Kumar", "Raghuvir Yadav", "Chandan Roy", "Neena Gupta", "Biswapati Sarkar"],
+      "director": ["Deepak Kumar Mishra"]
+    },
+    "poster": "https://www.imdb.com/title/tt12004706/mediaviewer/rm684637185/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "5 March 2020"
+  },
+  {
+    "id": 11,
+    "name": "Bandish Bandits",
+    "rating": 8.7,
+    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+    "category": ["Music", "Drama", "Romance"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Ritwik Bhowmik", "Shreya Chaudhary", "Naseeruddin Shah", "Sheeba Chaddha", "Rajesh Tailang", "Kunaal Roy Kapur"],
+      "director": ["Anand Tiwari"]
+    },
+    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "4 August 2020"
+  },
+  {
+    "id": 12,
+    "name": "High",
+    "rating": 9.0,
+    "description": "Shiv Mathur is an addict and eventually finds himself in a rehab facility. The rehab is run by people who are working on a mysterious compound. This magical pill seems to have an edge above all; but is this miracle drug worth dying for?",
+    "category": ["Crime", "Drama", "Thriller"],
+    "platform": "Mx Player",
+    "casting": {
+      "actors": ["Akshay Oberoi", "Ranvir Shorey", "Mrinmayee Godbole", "Shweta Basu Prasad", "Prakash Belawadi"],
+      "director": ["Nikhil Rao"]
+    },
+    "poster": "https://www.imdb.com/title/tt13174524/mediaviewer/rm4241270017/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "7 October 2020"
+  },
+  {
+    "id": 13,
+    "name": "Abhay",
+    "rating": 8.0,
+    "description": "Abhay Pratap Singh, the gutsy cop who can outwit any criminal, is back. Only this time, he is up against some sharper and hardened evil masterminds. Join him as he sets out on the road to justice with a darker and edgier.",
+    "category": ["Crime", "Thriller"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Kunal Khemu", "Elnaaz Norouzi", "Ram Kapoor", "Asha Negi", "Nidhi Singh"],
+      "director": ["Ken Ghosh"]
+    },
+    "poster": "https://www.imdb.com/title/tt9778022/mediaviewer/rm3951797249/?ref_=tt_ov_i",
+    "episodeCount": 16,
+    "seasons": 2,
+    "releaseDate": "14 August 2020"
+  },
+  {
+    "id": 14,
+    "name": "Aarya",
+    "rating": 7.9,
+    "description": "When her world suddenly turns upside down, will Aarya become the very thing she hated?How far will she go to survive and protect her family?",
+    "category": ["Crime", "Thriller", "Drama"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": ["Sushmita Sen", "Vikas Kumar", "Namit Das", "Sikandar Kher", "Maya Sarao"],
+      "director": ["Ram Madhvani", "Sandeep Modi", "Vinod Rawat"]
+    },
+    "poster": "https://www.imdb.com/title/tt12448030/mediaviewer/rm1699722497/",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "19 June 2020"
+  },
+  {
+    "id": 15,
+    "name": "Apharan",
+    "rating": 8.3,
+    "description": "Rudra Srivastava, a senior inspector with Uttarakhand police is lured into kidnapping a young girl at her request. The plot begins as a simple plan to extort money in exchange for her release. When the chain of events go wrong and a series of lies unfold, he realizes that he is now a part of a deadly conspiracy. Will he be able to escape the outcome of his choices or become a victim of the web of lies?",
+    "category": ["Crime", "Thriller", "Action"],
+    "platform": "ALT Balaji",
+    "casting": {
+      "actors": ["Arunoday Singh", "Mahie Gill", "Nidhi Singh", "Monica Chaudhary"],
+      "director": ["Siddharth Sengupta"]
+    },
+    "poster": "https://www.imdb.com/title/tt8392006/mediaviewer/rm3610408448/?ref_=tt_ov_i",
+    "episodeCount": 12,
+    "seasons": 1,
+    "releaseDate": "14 December 2018"
+  },
+  {
+    "id": 16,
+    "name": "Breathe",
+    "rating": 8.3,
+    "description": "This series just asks one question - how far will you go to protect the one you love. Two desperate and driven men must engage in the ultimate cat and mouse game to save the one they love.",
+    "category": ["Thriller", "Drama"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Madhavan", "Amit Sadh", "Sapna Pabbi", "Shriswara", "Atharva Vishwakarma", "Hrishikesh Joshi"],
+      "director": ["Mayank Sharma"]
+    },
+    "poster": "https://www.imdb.com/title/tt6466208/mediaviewer/rm2520011520/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "26 January 2018"
+  },
+  {
+    "id": 17,
+    "name": "Bhaukaal",
+    "rating": 8.2,
+    "description": "Naveen Sikhera makes his way into the sin city as the new SSP, he is hit by the prevailing chaos and lawlessness in the city. Muzaffarnagar is ruled by Shaukeen gang in the east and the Dedha brothers rule the west.",
+    "category": ["Action", "Crime"],
+    "platform": "Mx Player",
+    "casting": {
+      "actors": ["Mohit Raina", "Abhimanyu Singh", "Siddhant Kapoor", "Bidita Bag", "Sunny Hinduja"],
+      "director": ["Jatin Satish Wagle"]
+    },
+    "poster": "https://www.imdb.com/title/tt9359338/mediaviewer/rm3856260353/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "6 March 2020"
+  },
+  {
+    "id": 18,
+    "name": "Dhanbad Blues",
+    "rating": 5.1,
+    "description": "Mrinal Sen is a failed director whose life takes a turn when he gets an opportunity to direct a film in Jharkhand. Hoichoi presents web-series ",
+    "category": ["Thriller"],
+    "platform": "Hoichoi",
+    "casting": {
+      "actors": ["Rajatabha Dutta", "Solanki Roy", "Dibyendu Bhattacharya", "Imran Hasnee"],
+      "director": ["Sourav Chakraborty"]
+    },
+    "poster": "https://www.imdb.com/title/tt9466186/mediaviewer/rm1888783361/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "15 December 2018"
+  },
+  {
+    "id": 19,
+    "name": "Sharate Aaj",
+    "rating": 7.3,
+    "description": "This thriller drama revolves around a group of NRI Bengalis, both from India and Bangladesh, who come together to organise and celebrate Durga Puja. However, a terrorist group plans to disrupt the event.",
+    "category": ["Drama"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Danny Darren", "Joy Bhowmik", "Marek Hollands", "Soutrik Basu"],
+      "director": ["Aritra Sen"]
+    },
+    "poster": "https://www.imdb.com/title/tt9868952/mediaviewer/rm2767351040/?ref_=tt_ov_i",
+    "episodeCount": 6,
+    "seasons": 1,
+    "releaseDate": "21 February 2019"
+  },
+  {
+    "id": 20,
+    "name": "Gullak",
+    "rating": 9.1,
+    "description": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra family.",
+    "category": ["Drama", "Comedy", "Family"],
+    "platform": "Sony Liv",
+    "casting": {
+      "actors": ["Jameel Khan", "Geetanjali Kulkarni", "Vaibhav Raj Gupta", "Shivankit Singh Parihar"],
+      "director": ["Amrit Raj Gupta", "Palash Vaswani"]
+    },
+    "poster": "https://www.imdb.com/title/tt10530900/mediaviewer/rm167171585/",
+    "episodeCount": 10,
+    "seasons": 2,
+    "releaseDate": "27 June 2019"
+  },
+  {
+    "id": 21,
+    "name": "Yeh Meri Family",
+    "rating": 9.1,
+    "description": "Set in the summer of 1998 it is a story about conflicting emotions towards family members from the eyes of a twelve year old.",
+    "category": ["Drama", "Comedy", "Family"],
+    "platform": "TVF Play",
+    "casting": {
+      "actors": ["Vishesh Bansal", "Mona Singh", "Akarsh Khurana", "Ahan Nirban"],
+      "director": ["Sameer Saxena"]
+    },
+    "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "12 July 2018"
+  },
+  {
+    "id": 22,
+    "name": "Betaal",
+    "rating": 5.4,
+    "description": "A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.",
+    "category": ["Action", "Horror", "Thriller"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Vineet Kumar Singh", "Aahana Kumra", "Suchitra Pillai", "Jatin Goswami"],
+      "director": ["Patrick Graham", "Nikhil Mahajan"]
+    },
+    "poster": "https://www.imdb.com/title/tt10651790/mediaviewer/rm3930173697/?ref_=tt_ov_i",
+    "episodeCount": 4,
+    "seasons": 1,
+    "releaseDate": "24 May 2020"
+  },
+  {
+    "id": 23,
+    "name": "Raktanchal",
+    "rating": 7.5,
+    "description": "Raktanchal is a crime drama inspired by real-life events from the '80s of Purvanchal, Uttar Pradesh, at the time when the state development work was distributed through tenders. The criminal empire of Waseem Khan, the tender mafia is challenged by a young criminal Vijay Singh who is driven by vengeance.",
+    "category": ["Action", "Crime"],
+    "platform": "Mx Player",
+    "casting": {
+      "actors": ["Nikitin Dheer", "Kranti Prakash Jha", "Soundarya Sharma", "Ronjini Chakraborty"],
+      "director": ["Ritam Srivastav"]
+    },
+    "poster": "https://www.imdb.com/title/tt12347286/mediaviewer/rm245543937/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "24 May 2020"
+  },
+  {
+    "id": 24,
+    "name": "Your Honor",
+    "rating": 7.4,
+    "description": "As the son of a reputed judge gets involved in a hit and run, we see how even the most upright people break In order to save their family. The judge sacrifices relationships and subverts the law to save his son from a vengeful gangster.",
+    "category": ["Action", "Drama", "Thriller"],
+    "platform": "Sony Liv",
+    "casting": {
+      "actors": ["Jimmy Sheirgill", "Varun Badola", "Parul Gulati", "Mita Vashisht"],
+      "director": ["Eeshwar Nivas"]
+    },
+    "poster": "https://www.imdb.com/title/tt12392470/mediaviewer/rm31501057/?ref_=tt_ov_i",
+    "episodeCount": 12,
+    "seasons": 1,
+    "releaseDate": "18 June 2020"
+  },
+  {
+    "id": 25,
+    "name": "Lalbazaar",
+    "rating": 7.3,
+    "description": "A set of brave cops deal with the dark underbelly and bring some of the most sinister customers to justice.",
+    "category": ["Crime", "Drama"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Koushik Sen", "Hrishitaa Bhatt", "Sabyasachi Chakrabarty", "Subrat Dutta"],
+      "director": ["Sayantan Ghosal"]
+    },
+    "poster": "https://www.imdb.com/title/tt12416834/mediaviewer/rm4258376193/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "19 June 2020"
+  },
+  {
+    "id": 26,
+    "name": "Crackdown",
+    "rating": 7.5,
+    "description": "A secret service unit, a sinister terror plot, and several innocent lives on the line. Top agent, RP, and his team lead the charge to neutralize the enemies. With time running out, can they eliminate the threat before it eliminates them?",
+    "category": ["Crime", "Drama", "Action"],
+    "platform": "Voot",
+    "casting": {
+      "actors": ["Saqib Saleem", "Shriya Pilgaonkar", "Iqbal Khan", "Rajesh Tailang"],
+      "director": ["Apoorva Lakhia"]
+    },
+    "poster": "https://www.imdb.com/title/tt12701270/mediaviewer/rm3460735233/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "23 September 2020"
+  },
+  {
+    "id": 27,
+    "name": "Avrodh the Siege Within",
+    "rating": 7.7,
+    "description": "It is a War Thriller based on the theme of Indian Army and Uri Surgical Strike.",
+    "category": ["Action"],
+    "platform": "Sony Liv",
+    "casting": {
+      "actors": ["Amit Sadh", "Vikram Gokhale", "Neeraj Kabi", "Darshan Kumaar"],
+      "director": ["Raj Acharya"]
+    },
+    "poster": "https://www.imdb.com/title/tt12392458/mediaviewer/rm1217375233/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "31 July 2020"
+  },
+  {
+    "id": 28,
+    "name": "JL50",
+    "rating": 7.5,
+    "description": "A plane is discovered to have recently crashed in West Bengal. However, what is so baffling about the incident is that plane originally went missing 35 years ago.",
+    "category": ["Drama", "Sci-Fi", "Thriller"],
+    "platform": "Sony Liv",
+    "casting": {
+      "actors": ["Abhay Deol", "Pankaj Kapur", "Ritika Anand", "Piyush Mishra"],
+      "director": ["Shailender Vyas"]
+    },
+    "poster": "https://www.imdb.com/title/tt7441984/mediaviewer/rm816947457/?ref_=tt_ov_i",
+    "episodeCount": 5,
+    "seasons": 1,
+    "releaseDate": "4 September 2020"
+  },
+  {
+    "id": 29,
+    "name": "Pariwar",
+    "rating": 6.9,
+    "description": "A loving father who misses his wayward quarrelsome children will stop at nothing to make sure they come home, and Kashiram Narayan knows just the right tricks.",
+    "category": ["Comedy"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": ["Gajraj Rao", "Vijay Raaz", "Yashpal Sharma", "Ranvir Shorey"],
+      "director": ["Sagar Ballary"]
+    },
+    "poster": "https://www.imdb.com/title/tt13124352/mediaviewer/rm2919016193/?ref_=tt_ov_i",
+    "episodeCount": 6,
+    "seasons": 1,
+    "releaseDate": "23 September 2020"
+  },
+  {
+    "id": 30,
+    "name": "Black Widows",
+    "rating": 7.3,
+    "description": "Tired of their abusive husbands, three women plan and execute their murders. It is an almost perfect plan, till Pankaj Mishra - assigned to the case -- realises there is more to it than met the eye.",
+    "category": ["Crime", "Drama", "Mystery"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Shruti Vyas", "Nikhil Bhambri", "Shaheb Chattopadhyay", "Faisal Malik"],
+      "director": ["Birsa Dasgupta"]
+    },
+    "poster": "https://www.imdb.com/title/tt13032762/mediaviewer/rm1480184321/?ref_=tt_ov_i",
+    "episodeCount": 12,
+    "seasons": 1,
+    "releaseDate": "18 December 2020"
+  },
+  {
+    "id": 31,
+    "name": "Taqdeer",
+    "rating": 8.9,
+    "description": "Freezer van driver Taqdeer spirals into a dark game of destiny after he finds the unclaimed dead body of a woman in his truck.",
+    "category": ["Crime", "Thriller", "Mystery"],
+    "platform": "Hoichoi",
+    "casting": {
+      "actors": ["Chanchal Chowdhury", "Sanjida Preeti", "Manoj Kumar Pramanik", "Shohel Mondol"],
+      "director": ["Syed Ahmed Shawki"]
+    },
+    "poster": "https://www.imdb.com/title/tt13582638/mediaviewer/rm4029010433/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "18 December 2020"
+  },
+  {
+    "id": 32,
+    "name": "Paurashpur",
+    "rating": 8.0,
+    "description": "In a kingdom dominated by men, it is the ultimate battle of the sexes to win the war being waged against gender equality. Every character is grey and they must fight for what they believe is right in order to survive in Paurashpur.",
+    "category": ["Drama"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Annu Kapoor", "Shilpa Shinde", "Milind Soman", "Shaheer Sheikh"],
+      "director": ["Baljit Singh Chaddha"]
+    },
+    "poster": "https://www.imdb.com/title/tt13439476/mediaviewer/rm868736257/?ref_=tt_ov_i",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "29 December 2020"
+  },
+  {
+    "id": 33,
+    "name": "Tandav",
+    "rating": 3.8,
+    "description": "Tandav is a story that happens in the capital city of the world's largest democracy - DILLI (New Delhi), where it takes you inside the closed, chaotic doors of power and manipulation and uncover the darkest lanes of Indian politics.",
+    "category": ["Drama", "Thriller"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Saif Ali Khan", "Dimple Kapadia", "Mohd. Zeeshan Ayyub", "Sunil Grover"],
+      "director": ["Ali Abbas Zafar"]
+    },
+    "poster": "https://www.imdb.com/title/tt11117570/mediaviewer/rm3009728513/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "15 January 2021"
+  },
+  {
+    "id": 34,
+    "name": "Crashh",
+    "rating": 8.8,
+    "description": "A happy family was torn apart by a fateful accident. When fate brings them together will Kabir, Kajol, Alia and Rahim realise that they are family? Will these long lost siblings find their long lost love for each other?",
+    "category": ["Romance"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Kunj Anand", "Aditi Sharma", "Anushka Sen", "Zain Imam"],
+      "director": ["Kushal Zaveri"]
+    },
+    "poster": "https://www.imdb.com/title/tt13529854/mediaviewer/rm3284915201/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "14 February 2021"
+  },
+  {
+    "id": 35,
+    "name": "Chacha Vidhayak Hain Hamare",
+    "rating": 7.7,
+    "description": "Ronny's whole life is based on a lie. To the world he is the nephew of the local MLA and a youth leader who solves people's problems. But in reality, Ronny is a jobless 25 year old with no relation to the MLA who shares his surname.",
+    "category": ["Comedy"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Zakir Khan", "Kumar Varun", "Vyom Sharma", "Alka Amin"],
+      "director": ["Vikas Chandra"]
+    },
+    "poster": "https://www.imdb.com/title/tt8254592/mediaviewer/rm1235189248/?ref_=tt_ov_i",
+    "episodeCount": 16,
+    "seasons": 2,
+    "releaseDate": "11 May 2018"
+  },
+  {
+    "id": 36,
+    "name": "Sunflower",
+    "rating": 7.5,
+    "description": "A quirky murder mystery based in a housing society called Sunflower. Its simpleton resident Sonu dives headlong into a murder mystery and becomes the chief suspect. What happens next?",
+    "category": ["Comedy", "Crime"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Sunil Grover", "Ashish Vidyarthi", "Ranvir Shorey"],
+      "director": ["Vikas Bahl"]
+    },
+    "poster": "https://www.imdb.com/title/tt13304410/mediaviewer/rm3212363009/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "11 June 2021"
   }
 ]
