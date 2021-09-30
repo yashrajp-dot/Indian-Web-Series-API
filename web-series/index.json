@@ -574,5 +574,53 @@
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "11 June 2021"
-  }
+  },
+  {
+    "id": 37,
+    "name": "Little Things",
+    "rating": 8.3,
+    "description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
+    "category": ["Comedy","Romance"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Dhruv Sehgal", "Mithila Palkar", "Abhishek Bhalerao"],
+      "director": ["Ajay Bhuyan", "Sumit Arora", "Ruchir Arun"]
+    },
+    "poster": "https://www.imdb.com/title/tt6522580/mediaviewer/rm1326676992/?ref_=tt_ov_i",
+    "episodeCount": 21,
+    "seasons": 3,
+    "releaseDate": "25 October 2016"
+ },
+{
+    "id": 38,
+    "name": "Hundred",
+    "rating": 6.8,
+    "description": "An unapologetic and frustrated ACP teams up with an honest civil worker who teams up to accomplish their personal objectives.",
+    "category": ["Comedy", "Drama"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": ["Lara Dutta", "Gautami Kapoor", "Karan Wahi"],
+      "director": ["Ruchi Narain", "Ashutosh Shah", "Taher Shabbir"]
+    },
+    "poster": "https://www.imdb.com/title/tt12207704/mediaviewer/rm3962811137/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "25 April 2020"
+ },
+{
+    "id": 39,
+    "name": "Delhi Crime",
+    "rating": 8.5,
+    "description": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
+    "category": ["Crime", "Drama"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Shefali Shah", "Rasika Dugal", "Rajesh Tailang"],
+      "director": ["Richie Mehta"]
+    },
+    "poster": "https://www.imdb.com/title/tt9398466/mediaviewer/rm527785984/?ref_=tt_ov_i",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "22 March 2019"
+ }
 ]
