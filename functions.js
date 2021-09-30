@@ -17,15 +17,17 @@ function ratingSeries(r) {
 }
 
 function genreSeries(genre) {
-  let random = Math.floor(Math.random() * webSeries.length);
-  while (true) {
-    for (let i = 0; i < webSeries[random].category.length; i++) {
-      if (webSeries[random].category[i].localeCompare(genre) == 0) {
-        return webSeries[random];
+  let requiredSeries = [];
+  for (let i = 0; i < webSeries.length; i++) {
+    let thatSeries = webSeries[i];
+    for (let j = 0; j < thatSeries.category.length; j++) {
+      if (webSeries[i].category[j].localeCompare(genre) === 0) {
+        requiredSeries.push(thatSeries);
       }
     }
-    random = (random + 1) % webSeries;
   }
+  let random = Math.floor(Math.random() * requiredSeries.length);
+  return requiredSeries[random];
 }
 
 module.exports = { randomSeries, ratingSeries, genreSeries };
