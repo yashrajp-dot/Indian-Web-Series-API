@@ -736,7 +736,7 @@
     "releaseDate": "22 April 2019"
  },
   {
-    "id": 45,
+    "id": 47,
     "name": "Dark",
     "rating": 4.8,
     "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
@@ -751,5 +751,21 @@
     "seasons": 3,
     "releaseDate": "1 December 2017"
  }
+{
+  "id": 48,
+  "name": "Criminal Justice",
+  "rating": 8.1,
+  "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+  "category": ["Mystery", "Drama"],
+  "platform": "Hotstar",
+  "casting": {
+    "actors": ["Mayur More", "Jitendra Kumar", "Revathi Pillai", "Urvi Singh", "Alam Khan", "Ahsaas Channa", "Ranjan Raj"],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+  "episodeCount": 10,
+  "seasons": 1,
+  "releaseDate": "5 April 2019"
+}
   
 ]
