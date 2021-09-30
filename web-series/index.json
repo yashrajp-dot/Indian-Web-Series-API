@@ -1079,5 +1079,22 @@
     "episodeCount": 7,
     "seasons": 1,
     "releaseDate": " 27 September 2019"
+  },
+  {
+    "id": 56,
+    "name": "Operation MBBS",
+    "rating": 8.9,
+    "description": "First-year MBBS students face bullies, personal issues and several other ups and downs in their quest to earn a medical degree.",
+    "category": ["Drama"],
+    "platform": "Youtube",
+    "casting": {
+      "actors": ["Ayush Mehra", "Anshul Chauhan", 	"Sarah Hashmi"],
+      "director": ["puneet Bhatra"]
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZhOTVjMWUtY2NiOC00ODdmLWE1ODMtZDYxYzVjYzk0MzJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+    "episodeCount": 5,
+    "seasons": 2,
+    "releaseDate": " 22 February, 2020"
+
   }
 ]
