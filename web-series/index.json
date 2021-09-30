@@ -1089,6 +1089,14 @@
     "description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
     "category": ["crime", "drama"],
     "platform": "Netflix",
+    "casting": {
+    "actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+  "episodeCount": 10,
+  "seasons": 1,
+  "releaseDate": "8 Sept 2019
   }, 
   {
     "id": 57,
@@ -1186,6 +1194,7 @@
     "releaseDate": "	15 May 2020"
   },
 
+
 {
     "id": 62,
     "name": "Bandish Bandits",
@@ -1210,6 +1219,29 @@
     "seasons": 1,
     "releaseDate": "August 4, 2020"
   },
+
+{
+    "id": 63,
+    "name": "Breaking Bad",
+    "rating": 9.4,
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "category": ["Crime", "Drama", "Thriller"],
+    "platform": "",
+    "casting": {
+      "actors": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Dean Norris",
+        "Anna Gunn",
+        "Betsy Brandt",
+      ],
+      "director": ["Vince Gilligan"]
+    },
+    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fbreaking-bad-poster-series-posters-room-office-paper-print%2Fp%2Fitm44706fffd0682&psig=AOvVaw3rt6mKhIrnRi8xDv0m905o&ust=1633118552957000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGuOy-p_MCFQAAAAAdAAAAABAD",
+    "episodeCount": 62,
+    "seasons": 5,
+    "releaseDate": "20 January 2008"
+},
 
   
 ]
