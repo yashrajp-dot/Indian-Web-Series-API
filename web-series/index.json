@@ -721,19 +721,19 @@
  },
   {
     "id": 46,
-    "name": "Delhi Crime",
-    "rating": 8.5,
-    "description": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime..",
-    "category": ["Crime","Drama],
-    "platform": "Netflix",
+    "name": "The final Call",
+    "rating": 4.4,
+    "description": "cThe Final Call is a 2019 Indian web television thriller series based on 2015 novel I Will Go with You by Priya Kumar..",
+    "category": ["Suspense"],
+    "platform": "Zee5",
     "casting": {
-      "actors": ["Shefali Shah", "Rasika Dugal", "Rajesh Tailang"],
-      "director": ["Ashok Mehra"]
+      "actors": [" Priya Kumar","Sharman Joshi"],
+      "director": ["Vijay Lalwani"]
     },
-    "poster": "https://www.imdb.com/title/tt9398466/mediaviewer/rm527785984/?ref_=tt_ov_i",
+    "poster": "https://www.google.com/search?q=the+final+call+cast&client=safari&rls=en&sxsrf=AOaemvJUOXpT9dZ-7YldlRuDWi1LyoFQxQ:1633024868532&tbm=isch&source=iu&ictx=1&fir=7UTj8HuB5xmTLM%252CpZImB9hK62uxtM%252C_%253BfY5tRerhPzLEGM%252CsOrtqNcCkxcYVM%252C_%253BkxGF36-vnxUndM%252CKLKJg9W9czwGsM%252C_%253B194F_B6PBovLJM%252CLvzz-JFzpsDrtM%252C_%253BLg1uKypiyuChpM%252CzxSTkxbkqbbi1M%252C_%253B380HEuLutKiPmM%252CY4BcYd0m0QAyxM%252C_&vet=1&usg=AI4_-kTlRKsr60C2ZSo8kdrCuh2RQr8kMw&sa=X&ved=2ahUKEwjvocrZo6fzAhWEyDgGHeS6DuUQ_B16BAg9EAE#imgrc=7UTj8HuB5xmTLM",
     "episodeCount": 8,
     "seasons": 1,
-    "releaseDate": "22 April 2019"
+    "releaseDate": "23 April 2019"
  }
   
 ]
