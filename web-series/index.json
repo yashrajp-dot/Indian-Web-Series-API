@@ -1089,6 +1089,14 @@
     "description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
     "category": ["crime", "drama"],
     "platform": "Netflix",
+    "casting": {
+    "actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+  "episodeCount": 10,
+  "seasons": 1,
+  "releaseDate": "8 Sept 2019
   }, 
   {
     "id": 57,
