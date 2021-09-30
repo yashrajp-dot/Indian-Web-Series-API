@@ -15,6 +15,10 @@ app.get("/random", (req, res) => {
   res.json(randomSeries());
 });
 
+app.get("/list", (req, res) => {
+  res.sendFile(__dirname + "/web-series/index.json");
+});
+
 app.get("/rating/:id1", (req, res) => {
   res.json(ratingSeries(req.params.id1));
 });
