@@ -1082,7 +1082,23 @@
     "seasons": 1,
     "releaseDate": "1 November 2017"
   }
+  {
+    "id": 56,
+    "name": "She",
+    "rating": 6.5,
+    "description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
+    "category": ["crime", "drama"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"]
+      "director": ["Arif Ali Avinash Das"]
+    },
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "20 March 2020"
   
+  }
   
 
 ]
