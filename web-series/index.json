@@ -702,5 +702,22 @@
     "episodeCount": 40,
     "seasons": 2,
     "releaseDate": "25 April 2019"
+ },
+  {
+    "id": 45,
+    "name": "Gandii Baat",
+    "rating": 3.4,
+    "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
+    "category": ["Romance"],
+    "platform": "Alt Balaji",
+    "casting": {
+      "actors": ["Asha Negi","Sharman Joshi","Vikram Singh Chauhan","Priya Banerjee"],
+      "director": ["Nandita Mehra"]
+    },
+    "poster": "https://www.imdb.com/title/tt8228316/mediaviewer/rm66115073/",
+    "episodeCount": 25,
+    "seasons": 5,
+    "releaseDate": "23 April 2018"
  }
+  
 ]
