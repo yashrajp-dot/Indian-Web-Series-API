@@ -782,6 +782,22 @@
   "episodeCount": 10,
   "seasons": 1,
   "releaseDate": "5 April 2019"
-}
+},
+  {
+    "id": 50,
+    "name": "30 weds 21",
+    "rating": 8.0,
+    "description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
+    "category": ["Romance","Comedy"],
+    "platform": "Youtube",
+    "casting": {
+      "actors": ["Chaitanya Madadi", "Chaitanya Rao", "Ananya"],
+      "director": ["Prithvi Vanam"]
+    },
+    "poster": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMjc1Y2QyM2UtNzNmZC00MjIxLWI1ZTQtMzQxZDhjZWU5MjhiXkEyXkFqcGdeQXVyMTMyNDIyMDYz._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14631516%2F&tbnid=UWIZc5qJxBIXiM&vet=12ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ..i&docid=4IfXl4927M1VqM&w=1000&h=1202&q=30%20weds%2021%20poster&ved=2ahUKEwi0kN_aqKfzAhUNm0sFHUJnBCwQMygAegUIARCtAQ",
+    "episodeCount": 6,
+    "seasons": 1,
+    "releaseDate": "2 May 2021"
+ },
   
 ]
