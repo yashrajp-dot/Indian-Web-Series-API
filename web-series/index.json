@@ -735,8 +735,24 @@
     "seasons": 1,
     "releaseDate": "22 April 2019"
  },
-  {
+{
     "id": 47,
+    "name": "Inside Edge",
+    "rating": 8,
+    "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
+    "category": ["Sport","Drama"],
+    "platform": "Amazon Prime",
+    "casting": {
+      "actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
+      "director": ["Karan Anshuman"]
+    },
+    "poster": "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
+    "episodeCount": 24,
+    "seasons": 2,
+    "releaseDate": "22 July 2017"
+},
+  {
+    "id": 48,
     "name": "Dark",
     "rating": 4.8,
     "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
@@ -750,9 +766,9 @@
     "episodeCount": 26,
     "seasons": 3,
     "releaseDate": "1 December 2017"
- }
+ },
 {
-  "id": 48,
+  "id": 49,
   "name": "Criminal Justice",
   "rating": 8.1,
   "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
