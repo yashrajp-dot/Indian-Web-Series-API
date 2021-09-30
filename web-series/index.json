@@ -7,7 +7,15 @@
     "category": ["Comedy", "Drama"],
     "platform": "Netflix",
     "casting": {
-      "actors": ["Mayur More", "Jitendra Kumar", "Revathi Pillai", "Urvi Singh", "Alam Khan", "Ahsaas Channa", "Ranjan Raj"],
+      "actors": [
+        "Mayur More",
+        "Jitendra Kumar",
+        "Revathi Pillai",
+        "Urvi Singh",
+        "Alam Khan",
+        "Ahsaas Channa",
+        "Ranjan Raj"
+      ],
       "director": ["Raghav Subbu"]
     },
     "poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
@@ -23,7 +31,16 @@
     "category": ["Comedy", "Drama", "Action"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Manoj Bajpayee", "Samantha Akkineni", "Priyamani", "Sharib Hashmi", "Ashlesha Thakur", "Vedant Sinha", "Shahab Ali", "Shreya Dhanwanthary"],
+      "actors": [
+        "Manoj Bajpayee",
+        "Samantha Akkineni",
+        "Priyamani",
+        "Sharib Hashmi",
+        "Ashlesha Thakur",
+        "Vedant Sinha",
+        "Shahab Ali",
+        "Shreya Dhanwanthary"
+      ],
       "director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"]
     },
     "poster": "https://www.imdb.com/title/tt9544034/mediaviewer/rm1173198593/",
@@ -39,7 +56,14 @@
     "category": ["Crime", "Drama", "Action"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Pankaj Tripathi", "Ali Fazal", "Divyendu Sharma", "Shweta Tripathi", "Kulbhushan Kharbanda", "Rasika Dugal"],
+      "actors": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "Divyendu Sharma",
+        "Shweta Tripathi",
+        "Kulbhushan Kharbanda",
+        "Rasika Dugal"
+      ],
       "director": ["Gurmmeet Singh", "Mihir Desai", "Karan Anshuman"]
     },
     "poster": "https://www.imdb.com/title/tt6473300/mediaviewer/rm3373062913/",
@@ -55,7 +79,14 @@
     "category": ["Comedy", "Drama"],
     "platform": "TVF Play",
     "casting": {
-      "actors": ["Naveen Kasturia", "Arunabh Kumar", "Jitendra Kumar", "Abhay Mahajan", "Akanksha Thakur", "Maanvi Gagroo"],
+      "actors": [
+        "Naveen Kasturia",
+        "Arunabh Kumar",
+        "Jitendra Kumar",
+        "Abhay Mahajan",
+        "Akanksha Thakur",
+        "Maanvi Gagroo"
+      ],
       "director": ["Amit Golani"]
     },
     "poster": "https://www.imdb.com/title/tt4742876/mediaviewer/rm2432953856/",
@@ -71,7 +102,16 @@
     "category": ["Crime", "Drama", "Action"],
     "platform": "Netflix",
     "casting": {
-      "actors": ["Saif Ali Khan", "Nawazuddin Siddiqui", "Neeraj Kabi", "Elnaaz Norouzi", "Aamir Bashir", "Pankaj Tripathi", "Radhika Apte", "Jitendra Joshi"],
+      "actors": [
+        "Saif Ali Khan",
+        "Nawazuddin Siddiqui",
+        "Neeraj Kabi",
+        "Elnaaz Norouzi",
+        "Aamir Bashir",
+        "Pankaj Tripathi",
+        "Radhika Apte",
+        "Jitendra Joshi"
+      ],
       "director": ["Anurag Kashyap"]
     },
     "poster": "https://www.imdb.com/title/tt6077448/mediaviewer/rm1135188993/?ref_=tt_ov_i",
@@ -87,7 +127,13 @@
     "category": ["Crime", "Thriller", "Action"],
     "platform": "Hotstar",
     "casting": {
-      "actors": ["Kay Kay Menon", "Karan Tacker", "Gautami Kapoor", "Vinay Pathak", "Meher Vij"],
+      "actors": [
+        "Kay Kay Menon",
+        "Karan Tacker",
+        "Gautami Kapoor",
+        "Vinay Pathak",
+        "Meher Vij"
+      ],
       "director": ["Neeraj Pandey", "Shivam Nair"]
     },
     "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
@@ -103,7 +149,13 @@
     "category": ["Crime", "Drama", "Mystery"],
     "platform": "Voot",
     "casting": {
-      "actors": ["Arshad Warsi", "Barun Sobti", "Riddhi Dogra", "Anupriya Goenka", "Amey Wagh"],
+      "actors": [
+        "Arshad Warsi",
+        "Barun Sobti",
+        "Riddhi Dogra",
+        "Anupriya Goenka",
+        "Amey Wagh"
+      ],
       "director": ["Oni Sen"]
     },
     "poster": "https://www.imdb.com/title/tt11912196/mediaviewer/rm1168488705/?ref_=tt_ov_i",
@@ -119,7 +171,13 @@
     "category": ["Crime", "Drama", "Thriller"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Jaideep Ahlawat", "Neeraj Kabi", "Ishwak Singh", "Abhishek Banerjee", "Jagjeet Sandhu"],
+      "actors": [
+        "Jaideep Ahlawat",
+        "Neeraj Kabi",
+        "Ishwak Singh",
+        "Abhishek Banerjee",
+        "Jagjeet Sandhu"
+      ],
       "director": ["Avinash Arun", "Prosit Roy"]
     },
     "poster": "https://www.imdb.com/title/tt9680440/mediaviewer/rm2207495681/",
@@ -135,7 +193,13 @@
     "category": ["Crime", "Drama", "Biography"],
     "platform": "Sony Liv",
     "casting": {
-      "actors": ["Pratik Gandhi", "Shreya Dhanwanthary", "Anjali Barot", "Chirag Vohra", "Anant Mahadevan"],
+      "actors": [
+        "Pratik Gandhi",
+        "Shreya Dhanwanthary",
+        "Anjali Barot",
+        "Chirag Vohra",
+        "Anant Mahadevan"
+      ],
       "director": ["Hansal Mehta", "Jai Mehta"]
     },
     "poster": "https://www.imdb.com/title/tt12392504/mediaviewer/rm2407113985/?ref_=tt_ov_i",
@@ -151,7 +215,13 @@
     "category": ["Comedy", "Drama"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Jitendra Kumar", "Raghuvir Yadav", "Chandan Roy", "Neena Gupta", "Biswapati Sarkar"],
+      "actors": [
+        "Jitendra Kumar",
+        "Raghuvir Yadav",
+        "Chandan Roy",
+        "Neena Gupta",
+        "Biswapati Sarkar"
+      ],
       "director": ["Deepak Kumar Mishra"]
     },
     "poster": "https://www.imdb.com/title/tt12004706/mediaviewer/rm684637185/?ref_=tt_ov_i",
@@ -167,7 +237,14 @@
     "category": ["Music", "Drama", "Romance"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Ritwik Bhowmik", "Shreya Chaudhary", "Naseeruddin Shah", "Sheeba Chaddha", "Rajesh Tailang", "Kunaal Roy Kapur"],
+      "actors": [
+        "Ritwik Bhowmik",
+        "Shreya Chaudhary",
+        "Naseeruddin Shah",
+        "Sheeba Chaddha",
+        "Rajesh Tailang",
+        "Kunaal Roy Kapur"
+      ],
       "director": ["Anand Tiwari"]
     },
     "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
@@ -183,7 +260,13 @@
     "category": ["Crime", "Drama", "Thriller"],
     "platform": "Mx Player",
     "casting": {
-      "actors": ["Akshay Oberoi", "Ranvir Shorey", "Mrinmayee Godbole", "Shweta Basu Prasad", "Prakash Belawadi"],
+      "actors": [
+        "Akshay Oberoi",
+        "Ranvir Shorey",
+        "Mrinmayee Godbole",
+        "Shweta Basu Prasad",
+        "Prakash Belawadi"
+      ],
       "director": ["Nikhil Rao"]
     },
     "poster": "https://www.imdb.com/title/tt13174524/mediaviewer/rm4241270017/?ref_=tt_ov_i",
@@ -199,7 +282,13 @@
     "category": ["Crime", "Thriller"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Kunal Khemu", "Elnaaz Norouzi", "Ram Kapoor", "Asha Negi", "Nidhi Singh"],
+      "actors": [
+        "Kunal Khemu",
+        "Elnaaz Norouzi",
+        "Ram Kapoor",
+        "Asha Negi",
+        "Nidhi Singh"
+      ],
       "director": ["Ken Ghosh"]
     },
     "poster": "https://www.imdb.com/title/tt9778022/mediaviewer/rm3951797249/?ref_=tt_ov_i",
@@ -215,7 +304,13 @@
     "category": ["Crime", "Thriller", "Drama"],
     "platform": "Hotstar",
     "casting": {
-      "actors": ["Sushmita Sen", "Vikas Kumar", "Namit Das", "Sikandar Kher", "Maya Sarao"],
+      "actors": [
+        "Sushmita Sen",
+        "Vikas Kumar",
+        "Namit Das",
+        "Sikandar Kher",
+        "Maya Sarao"
+      ],
       "director": ["Ram Madhvani", "Sandeep Modi", "Vinod Rawat"]
     },
     "poster": "https://www.imdb.com/title/tt12448030/mediaviewer/rm1699722497/",
@@ -231,7 +326,12 @@
     "category": ["Crime", "Thriller", "Action"],
     "platform": "ALT Balaji",
     "casting": {
-      "actors": ["Arunoday Singh", "Mahie Gill", "Nidhi Singh", "Monica Chaudhary"],
+      "actors": [
+        "Arunoday Singh",
+        "Mahie Gill",
+        "Nidhi Singh",
+        "Monica Chaudhary"
+      ],
       "director": ["Siddharth Sengupta"]
     },
     "poster": "https://www.imdb.com/title/tt8392006/mediaviewer/rm3610408448/?ref_=tt_ov_i",
@@ -247,7 +347,14 @@
     "category": ["Thriller", "Drama"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Madhavan", "Amit Sadh", "Sapna Pabbi", "Shriswara", "Atharva Vishwakarma", "Hrishikesh Joshi"],
+      "actors": [
+        "Madhavan",
+        "Amit Sadh",
+        "Sapna Pabbi",
+        "Shriswara",
+        "Atharva Vishwakarma",
+        "Hrishikesh Joshi"
+      ],
       "director": ["Mayank Sharma"]
     },
     "poster": "https://www.imdb.com/title/tt6466208/mediaviewer/rm2520011520/?ref_=tt_ov_i",
@@ -263,7 +370,13 @@
     "category": ["Action", "Crime"],
     "platform": "Mx Player",
     "casting": {
-      "actors": ["Mohit Raina", "Abhimanyu Singh", "Siddhant Kapoor", "Bidita Bag", "Sunny Hinduja"],
+      "actors": [
+        "Mohit Raina",
+        "Abhimanyu Singh",
+        "Siddhant Kapoor",
+        "Bidita Bag",
+        "Sunny Hinduja"
+      ],
       "director": ["Jatin Satish Wagle"]
     },
     "poster": "https://www.imdb.com/title/tt9359338/mediaviewer/rm3856260353/?ref_=tt_ov_i",
@@ -279,7 +392,12 @@
     "category": ["Thriller"],
     "platform": "Hoichoi",
     "casting": {
-      "actors": ["Rajatabha Dutta", "Solanki Roy", "Dibyendu Bhattacharya", "Imran Hasnee"],
+      "actors": [
+        "Rajatabha Dutta",
+        "Solanki Roy",
+        "Dibyendu Bhattacharya",
+        "Imran Hasnee"
+      ],
       "director": ["Sourav Chakraborty"]
     },
     "poster": "https://www.imdb.com/title/tt9466186/mediaviewer/rm1888783361/?ref_=tt_ov_i",
@@ -295,7 +413,12 @@
     "category": ["Drama"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Danny Darren", "Joy Bhowmik", "Marek Hollands", "Soutrik Basu"],
+      "actors": [
+        "Danny Darren",
+        "Joy Bhowmik",
+        "Marek Hollands",
+        "Soutrik Basu"
+      ],
       "director": ["Aritra Sen"]
     },
     "poster": "https://www.imdb.com/title/tt9868952/mediaviewer/rm2767351040/?ref_=tt_ov_i",
@@ -311,7 +434,12 @@
     "category": ["Drama", "Comedy", "Family"],
     "platform": "Sony Liv",
     "casting": {
-      "actors": ["Jameel Khan", "Geetanjali Kulkarni", "Vaibhav Raj Gupta", "Shivankit Singh Parihar"],
+      "actors": [
+        "Jameel Khan",
+        "Geetanjali Kulkarni",
+        "Vaibhav Raj Gupta",
+        "Shivankit Singh Parihar"
+      ],
       "director": ["Amrit Raj Gupta", "Palash Vaswani"]
     },
     "poster": "https://www.imdb.com/title/tt10530900/mediaviewer/rm167171585/",
@@ -327,7 +455,12 @@
     "category": ["Drama", "Comedy", "Family"],
     "platform": "TVF Play",
     "casting": {
-      "actors": ["Vishesh Bansal", "Mona Singh", "Akarsh Khurana", "Ahan Nirban"],
+      "actors": [
+        "Vishesh Bansal",
+        "Mona Singh",
+        "Akarsh Khurana",
+        "Ahan Nirban"
+      ],
       "director": ["Sameer Saxena"]
     },
     "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
@@ -343,7 +476,12 @@
     "category": ["Action", "Horror", "Thriller"],
     "platform": "Netflix",
     "casting": {
-      "actors": ["Vineet Kumar Singh", "Aahana Kumra", "Suchitra Pillai", "Jatin Goswami"],
+      "actors": [
+        "Vineet Kumar Singh",
+        "Aahana Kumra",
+        "Suchitra Pillai",
+        "Jatin Goswami"
+      ],
       "director": ["Patrick Graham", "Nikhil Mahajan"]
     },
     "poster": "https://www.imdb.com/title/tt10651790/mediaviewer/rm3930173697/?ref_=tt_ov_i",
@@ -359,7 +497,12 @@
     "category": ["Action", "Crime"],
     "platform": "Mx Player",
     "casting": {
-      "actors": ["Nikitin Dheer", "Kranti Prakash Jha", "Soundarya Sharma", "Ronjini Chakraborty"],
+      "actors": [
+        "Nikitin Dheer",
+        "Kranti Prakash Jha",
+        "Soundarya Sharma",
+        "Ronjini Chakraborty"
+      ],
       "director": ["Ritam Srivastav"]
     },
     "poster": "https://www.imdb.com/title/tt12347286/mediaviewer/rm245543937/?ref_=tt_ov_i",
@@ -375,7 +518,12 @@
     "category": ["Action", "Drama", "Thriller"],
     "platform": "Sony Liv",
     "casting": {
-      "actors": ["Jimmy Sheirgill", "Varun Badola", "Parul Gulati", "Mita Vashisht"],
+      "actors": [
+        "Jimmy Sheirgill",
+        "Varun Badola",
+        "Parul Gulati",
+        "Mita Vashisht"
+      ],
       "director": ["Eeshwar Nivas"]
     },
     "poster": "https://www.imdb.com/title/tt12392470/mediaviewer/rm31501057/?ref_=tt_ov_i",
@@ -391,7 +539,12 @@
     "category": ["Crime", "Drama"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Koushik Sen", "Hrishitaa Bhatt", "Sabyasachi Chakrabarty", "Subrat Dutta"],
+      "actors": [
+        "Koushik Sen",
+        "Hrishitaa Bhatt",
+        "Sabyasachi Chakrabarty",
+        "Subrat Dutta"
+      ],
       "director": ["Sayantan Ghosal"]
     },
     "poster": "https://www.imdb.com/title/tt12416834/mediaviewer/rm4258376193/?ref_=tt_ov_i",
@@ -407,7 +560,12 @@
     "category": ["Crime", "Drama", "Action"],
     "platform": "Voot",
     "casting": {
-      "actors": ["Saqib Saleem", "Shriya Pilgaonkar", "Iqbal Khan", "Rajesh Tailang"],
+      "actors": [
+        "Saqib Saleem",
+        "Shriya Pilgaonkar",
+        "Iqbal Khan",
+        "Rajesh Tailang"
+      ],
       "director": ["Apoorva Lakhia"]
     },
     "poster": "https://www.imdb.com/title/tt12701270/mediaviewer/rm3460735233/?ref_=tt_ov_i",
@@ -423,7 +581,12 @@
     "category": ["Action"],
     "platform": "Sony Liv",
     "casting": {
-      "actors": ["Amit Sadh", "Vikram Gokhale", "Neeraj Kabi", "Darshan Kumaar"],
+      "actors": [
+        "Amit Sadh",
+        "Vikram Gokhale",
+        "Neeraj Kabi",
+        "Darshan Kumaar"
+      ],
       "director": ["Raj Acharya"]
     },
     "poster": "https://www.imdb.com/title/tt12392458/mediaviewer/rm1217375233/?ref_=tt_ov_i",
@@ -471,7 +634,12 @@
     "category": ["Crime", "Drama", "Mystery"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Shruti Vyas", "Nikhil Bhambri", "Shaheb Chattopadhyay", "Faisal Malik"],
+      "actors": [
+        "Shruti Vyas",
+        "Nikhil Bhambri",
+        "Shaheb Chattopadhyay",
+        "Faisal Malik"
+      ],
       "director": ["Birsa Dasgupta"]
     },
     "poster": "https://www.imdb.com/title/tt13032762/mediaviewer/rm1480184321/?ref_=tt_ov_i",
@@ -487,7 +655,12 @@
     "category": ["Crime", "Thriller", "Mystery"],
     "platform": "Hoichoi",
     "casting": {
-      "actors": ["Chanchal Chowdhury", "Sanjida Preeti", "Manoj Kumar Pramanik", "Shohel Mondol"],
+      "actors": [
+        "Chanchal Chowdhury",
+        "Sanjida Preeti",
+        "Manoj Kumar Pramanik",
+        "Shohel Mondol"
+      ],
       "director": ["Syed Ahmed Shawki"]
     },
     "poster": "https://www.imdb.com/title/tt13582638/mediaviewer/rm4029010433/?ref_=tt_ov_i",
@@ -503,7 +676,12 @@
     "category": ["Drama"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Annu Kapoor", "Shilpa Shinde", "Milind Soman", "Shaheer Sheikh"],
+      "actors": [
+        "Annu Kapoor",
+        "Shilpa Shinde",
+        "Milind Soman",
+        "Shaheer Sheikh"
+      ],
       "director": ["Baljit Singh Chaddha"]
     },
     "poster": "https://www.imdb.com/title/tt13439476/mediaviewer/rm868736257/?ref_=tt_ov_i",
@@ -519,7 +697,12 @@
     "category": ["Drama", "Thriller"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Saif Ali Khan", "Dimple Kapadia", "Mohd. Zeeshan Ayyub", "Sunil Grover"],
+      "actors": [
+        "Saif Ali Khan",
+        "Dimple Kapadia",
+        "Mohd. Zeeshan Ayyub",
+        "Sunil Grover"
+      ],
       "director": ["Ali Abbas Zafar"]
     },
     "poster": "https://www.imdb.com/title/tt11117570/mediaviewer/rm3009728513/?ref_=tt_ov_i",
@@ -580,7 +763,7 @@
     "name": "Little Things",
     "rating": 8.3,
     "description": "A cohabiting couple in their 20s navigate the ups and downs of work, modern-day relationships and finding themselves in contemporary Bengaluru.",
-    "category": ["Comedy","Romance"],
+    "category": ["Comedy", "Romance"],
     "platform": "Netflix",
     "casting": {
       "actors": ["Dhruv Sehgal", "Mithila Palkar", "Abhishek Bhalerao"],
@@ -590,8 +773,8 @@
     "episodeCount": 21,
     "seasons": 3,
     "releaseDate": "25 October 2016"
- },
- {
+  },
+  {
     "id": 38,
     "name": "Hundred",
     "rating": 6.8,
@@ -606,8 +789,8 @@
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "25 April 2020"
- },
- {
+  },
+  {
     "id": 39,
     "name": "Delhi Crime",
     "rating": 8.5,
@@ -631,78 +814,93 @@
     "category": ["Crime"],
     "platform": "Netflix",
     "casting": {
-      "actors": ["Amit Sial","Dibyendu Bhattacharya","Aksha Pardasany"],
+      "actors": ["Amit Sial", "Dibyendu Bhattacharya", "Aksha Pardasany"],
       "director": ["Soumendra Padhi"]
     },
     "poster": "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
     "episodeCount": 11,
     "seasons": 1,
     "releaseDate": "10 January 2020"
- },
- {
+  },
+  {
     "id": 41,
     "name": "Hostel Daze",
     "rating": 8.6,
     "description": "Through the adventures of four friends 'Hostel Daze' captures what goes inside an engineering hostel in India.",
-    "category": ["Comedy","Drama"],
+    "category": ["Comedy", "Drama"],
     "platform": "Amazon Prime Video",
     "casting": {
-      "actors": ["Adarsh Gourav","	Nikhil Vijay","Shubham Gaur","Ahsaas Channa"],
-      "director": ["Raghav Subbu","Amir Musanna","Sangram Naiksatam"]
+      "actors": [
+        "Adarsh Gourav",
+        "	Nikhil Vijay",
+        "Shubham Gaur",
+        "Ahsaas Channa"
+      ],
+      "director": ["Raghav Subbu", "Amir Musanna", "Sangram Naiksatam"]
     },
     "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
     "episodeCount": 9,
     "seasons": 2,
     "releaseDate": "13 December 2019"
- },
- {
+  },
+  {
     "id": 42,
     "name": "Illegal - Justice,Out of Order",
     "rating": 7.5,
     "description": "An idealistic lawyer is trapped in the murky world of criminal law. Two cases (one about the death penalty for women in India, the other about sexual harassment in the workplace) show how out of order the justice system can be.",
-    "category": ["Comedy","Drama","Thriller"],
+    "category": ["Comedy", "Drama", "Thriller"],
     "platform": "Voot",
     "casting": {
-      "actors": ["Neha Sharma","Akshay Oberoi","Piyush Mishra"],
+      "actors": ["Neha Sharma", "Akshay Oberoi", "Piyush Mishra"],
       "director": ["Sahir Raza"]
     },
     "poster": "https://www.imdb.com/title/tt10308632/mediaviewer/rm3671308033/?ref_=tt_ov_i",
     "episodeCount": 10,
     "seasons": 1,
     "releaseDate": "12 May 2020"
- },
- {
+  },
+  {
     "id": 43,
     "name": "The Gone Game",
     "rating": 7.8,
     "description": "In the midst of a pandemic, Sahil Gujral goes missing. Thought to be a victim of the coronavirus at first, his death points to a mysterious crime.",
-    "category": ["Crime","Thriller"],
+    "category": ["Crime", "Thriller"],
     "platform": "Voot",
     "casting": {
-      "actors": ["Sanjay Kapoor","Arjun Mathur","Shweta Tripathi","Shriya Pilgaonkar"],
+      "actors": [
+        "Sanjay Kapoor",
+        "Arjun Mathur",
+        "Shweta Tripathi",
+        "Shriya Pilgaonkar"
+      ],
       "director": ["Nikhil Bhat"]
     },
     "poster": "https://www.imdb.com/title/tt12768990/mediaviewer/rm3545801473/?ref_=tt_ov_i",
     "episodeCount": 4,
     "seasons": 1,
     "releaseDate": "20 August 2020"
- },
+  },
   {
     "id": 44,
     "name": "Baarish",
     "rating": 8.2,
     "description": "The series revolves around a millionaire Gujarati businessman Anuj (Sharman Joshi) and a Marathi girl Gauravi (Asha Negi) who are two complete strangers hailing from completely different backgrounds.",
-    "category": ["Romance","Sitcom"],
+    "category": ["Romance", "Sitcom"],
     "platform": "Zee 5",
     "casting": {
-      "actors": ["Asha Negi","Sharman Joshi","Vikram Singh Chauhan","Priya Banerjee"],
+      "actors": [
+        "Asha Negi",
+        "Sharman Joshi",
+        "Vikram Singh Chauhan",
+        "Priya Banerjee"
+      ],
       "director": ["Nandita Mehra"]
     },
     "poster": "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
     "episodeCount": 40,
     "seasons": 2,
     "releaseDate": "25 April 2019"
- },
+  },
   {
     "id": 45,
     "name": "Gandii Baat",
@@ -711,14 +909,19 @@
     "category": ["Romance"],
     "platform": "Alt Balaji",
     "casting": {
-      "actors": ["Asha Negi","Sharman Joshi","Vikram Singh Chauhan","Priya Banerjee"],
+      "actors": [
+        "Asha Negi",
+        "Sharman Joshi",
+        "Vikram Singh Chauhan",
+        "Priya Banerjee"
+      ],
       "director": ["Nandita Mehra"]
     },
     "poster": "https://www.imdb.com/title/tt8228316/mediaviewer/rm66115073/",
     "episodeCount": 25,
     "seasons": 5,
     "releaseDate": "23 April 2018"
- },
+  },
   {
     "id": 46,
     "name": "The final Call",
@@ -727,20 +930,20 @@
     "category": ["Suspense"],
     "platform": "Zee5",
     "casting": {
-      "actors": [" Priya Kumar","Sharman Joshi"],
+      "actors": [" Priya Kumar", "Sharman Joshi"],
       "director": ["Vijay Lalwani"]
     },
     "poster": "https://www.google.com/search?q=the+final+call+cast&client=safari&rls=en&sxsrf=AOaemvJUOXpT9dZ-7YldlRuDWi1LyoFQxQ:1633024868532&tbm=isch&source=iu&ictx=1&fir=7UTj8HuB5xmTLM%252CpZImB9hK62uxtM%252C_%253BfY5tRerhPzLEGM%252CsOrtqNcCkxcYVM%252C_%253BkxGF36-vnxUndM%252CKLKJg9W9czwGsM%252C_%253B194F_B6PBovLJM%252CLvzz-JFzpsDrtM%252C_%253BLg1uKypiyuChpM%252CzxSTkxbkqbbi1M%252C_%253B380HEuLutKiPmM%252CY4BcYd0m0QAyxM%252C_&vet=1&usg=AI4_-kTlRKsr60C2ZSo8kdrCuh2RQr8kMw&sa=X&ved=2ahUKEwjvocrZo6fzAhWEyDgGHeS6DuUQ_B16BAg9EAE#imgrc=7UTj8HuB5xmTLM",
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "23 April 2019"
- },
-{
+  },
+  {
     "id": 47,
     "name": "Inside Edge",
     "rating": 8,
     "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
-    "category": ["Sport","Drama"],
+    "category": ["Sport", "Drama"],
     "platform": "Amazon Prime",
     "casting": {
       "actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
@@ -750,7 +953,7 @@
     "episodeCount": 24,
     "seasons": 2,
     "releaseDate": "22 July 2017"
-},
+  },
   {
     "id": 48,
     "name": "Dark",
@@ -759,36 +962,49 @@
     "category": ["Mystery"],
     "platform": "Netflix",
     "casting": {
-      "actors": ["Louis Hofmann","Andreas Pietschmann","Ella Lee","Lisa Vicari"],
+      "actors": [
+        "Louis Hofmann",
+        "Andreas Pietschmann",
+        "Ella Lee",
+        "Lisa Vicari"
+      ],
       "director": ["Baran bo Odar"]
     },
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsGlRa-W2Z5dTx2ZC9nK_88u1NlwUhnxKCkPFAJvoD8mFeu3f0HEuvAERtHxwEcfYFMg&usqp=CAU",
     "episodeCount": 26,
     "seasons": 3,
     "releaseDate": "1 December 2017"
- },
-{
-  "id": 49,
-  "name": "Criminal Justice",
-  "rating": 8.1,
-  "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
-  "category": ["Mystery", "Drama"],
-  "platform": "Hotstar",
-  "casting": {
-    "actors": ["Mayur More", "Jitendra Kumar", "Revathi Pillai", "Urvi Singh", "Alam Khan", "Ahsaas Channa", "Ranjan Raj"],
-    "director": ["Raghav Subbu"]
   },
-  "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
-  "episodeCount": 10,
-  "seasons": 1,
-  "releaseDate": "5 April 2019"
-},
+  {
+    "id": 49,
+    "name": "Criminal Justice",
+    "rating": 8.1,
+    "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+    "category": ["Mystery", "Drama"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": [
+        "Mayur More",
+        "Jitendra Kumar",
+        "Revathi Pillai",
+        "Urvi Singh",
+        "Alam Khan",
+        "Ahsaas Channa",
+        "Ranjan Raj"
+      ],
+      "director": ["Raghav Subbu"]
+    },
+    "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "5 April 2019"
+  },
   {
     "id": 50,
     "name": "30 weds 21",
     "rating": 8.0,
     "description": "A 30 year old run-of-the-mill IT professional is hitched to a lazy 21 year old fresh out of college. Unfold an unconventional love story that transcends generations.",
-    "category": ["Romance","Comedy"],
+    "category": ["Romance", "Comedy"],
     "platform": "Youtube",
     "casting": {
       "actors": ["Chaitanya Madadi", "Chaitanya Rao", "Ananya"],
@@ -798,6 +1014,22 @@
     "episodeCount": 6,
     "seasons": 1,
     "releaseDate": "2 May 2021"
- },
-  
+  },
+
+  {
+    "id": 51,
+    "name": "November Story",
+    "rating": 8.0,
+    "description": "A celebrated crime novelist suffering from Alzheimer's is found at a murder scene with no memory of what happened. Now, it is up to his daughter to save him.",
+    "category": ["Crime"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": ["Tamanna Bhatia", "G.M Kumar", "PashuPathi M", "Namita Krishnamurthy"],
+      "director": ["Indhra Subramanian"]
+    },
+    "poster": "https://en.wikipedia.org/wiki/November_Story#/media/File:November_Story_Poster.png",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "20 May 2021"
+  }
 ]
