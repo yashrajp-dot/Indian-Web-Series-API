@@ -734,6 +734,23 @@
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "22 April 2019"
- }
+ },
+{
+  "id": 47,
+  "name": "Criminal Justice",
+  "rating": 8.1,
+  "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+  "category": ["Mystery", "Drama"],
+  "platform": "Hotstar",
+  "casting": {
+    "actors": ["Mayur More", "Jitendra Kumar", "Revathi Pillai", "Urvi Singh", "Alam Khan", "Ahsaas Channa", "Ranjan Raj"],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+  "episodeCount": 10,
+  "seasons": 1,
+  "releaseDate": "5 April 2019"
+}
+
   
 ]
