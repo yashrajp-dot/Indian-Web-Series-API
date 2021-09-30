@@ -1084,5 +1084,22 @@
     "seasons": 1,
     "releaseDate": "28 May 2021"
 
+  },
+
+{
+    "id": 60,
+    "name": "Aashram",
+    "rating": 7.7,
+    "description": "A duplicitous, aashram based, Indian Godman's good deeds serve activities criminal and unholy, such as rapes, murders, drugs, vote bank politics and forced male emasculation. The law and a few crusaders investigate to bring him to account.",
+    "category": ["Crime"],
+    "platform": "Mx Player",
+    "casting": {
+      "actors": ["Bobby Deol", "Chandan Roy Sanyal", "Aditi Sudhir Pohankar"],
+      "director": ["Prakash Jha"]
+    },
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Aashram_%28poster%29.jpg",
+    "episodeCount": 20,
+    "seasons": 2,
+    "releaseDate": "2020"
   }
 ]
