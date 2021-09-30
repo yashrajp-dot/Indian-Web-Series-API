@@ -686,5 +686,21 @@
     "episodeCount": 4,
     "seasons": 1,
     "releaseDate": "20 August 2020"
+ },
+  {
+    "id": 44,
+    "name": "Baarish",
+    "rating": 8.2,
+    "description": "The series revolves around a millionaire Gujarati businessman Anuj (Sharman Joshi) and a Marathi girl Gauravi (Asha Negi) who are two complete strangers hailing from completely different backgrounds.",
+    "category": ["Romance","Sitcom"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": ["Asha Negi","Sharman Joshi","Vikram Singh Chauhan","Priya Banerjee"],
+      "director": ["Nandita Mehra"]
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
+    "episodeCount": 40,
+    "seasons": 2,
+    "releaseDate": "25 April 2019"
  }
 ]
