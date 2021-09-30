@@ -1193,8 +1193,35 @@
     "seasons": 2,
     "releaseDate": "	15 May 2020"
   },
+
+
 {
-    "id": 64,
+    "id": 62,
+    "name": "Bandish Bandits",
+    "rating": 8.7,
+    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two "set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+    "category": ["Romance", "Drama", "Music"],
+    "platform": "amazon-prime",
+    "casting": {
+      "actors": [
+        	
+"Ritwik Bhowmik"
+"Shreya Chaudhary"
+"Naseeruddin Shah"
+"Sheeba Chaddha"
+"Amit Mistry"
+"Kunaal Roy Kapur"
+      ],
+      "director": ["Anand Tiwari"]
+    },
+    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "August 4, 2020"
+  },
+
+{
+    "id": 63,
     "name": "Breaking Bad",
     "rating": 9.4,
     "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
@@ -1215,5 +1242,6 @@
     "seasons": 5,
     "releaseDate": "20 January 2008"
 },
+
   
 ]
