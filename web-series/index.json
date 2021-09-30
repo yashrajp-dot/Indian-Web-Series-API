@@ -734,6 +734,22 @@
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "22 April 2019"
+ },
+  {
+    "id": 45,
+    "name": "Dark",
+    "rating": 4.8,
+    "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
+    "category": ["Mystery"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Louis Hofmann","Andreas Pietschmann","Ella Lee","Lisa Vicari"],
+      "director": ["Baran bo Odar"]
+    },
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsGlRa-W2Z5dTx2ZC9nK_88u1NlwUhnxKCkPFAJvoD8mFeu3f0HEuvAERtHxwEcfYFMg&usqp=CAU",
+    "episodeCount": 26,
+    "seasons": 3,
+    "releaseDate": "1 December 2017"
  }
   
 ]
