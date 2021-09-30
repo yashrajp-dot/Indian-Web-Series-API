@@ -1031,5 +1031,21 @@
     "episodeCount": 7,
     "seasons": 1,
     "releaseDate": "20 May 2021"
-  }
+  },
+  {
+  "id": 54,
+  "name": "Flames",
+  "rating": 9.1,
+  "description": "A teenage romance from The Timeliners that aims straight from the heart. This web-series is the story of a young romance unfolding as a chemical reaction.",
+  "category": ["Comedy", "Romance"],
+  "platform": "Mx Player",
+  "casting": {
+    "actors": ["Ritvik Sahore", "Tanaya Maniktala", "Sunakshi Grover", "Shivam Kakar"],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://www.imdb.com/title/tt7927936/mediaviewer/rm1110346497/?ref_=tt_ov_i",
+  "episodeCount": 5,
+  "seasons": 2,
+  "releaseDate": "18 Oct 2019"
+}
 ]
