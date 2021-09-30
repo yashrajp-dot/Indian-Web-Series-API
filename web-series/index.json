@@ -608,8 +608,8 @@
     "releaseDate": "25 April 2020"
  },
  {
-    "id":39,
-    "name":"Delhi Crime",
+    "id": 39,
+    "name": "Delhi Crime",
     "rating": 8.5,
     "description": "Based on the Nirbhaya case, Delhi Crime follows the Delhi Police investigation into the finding of the men who perpetrated this crime.",
     "category": ["Crime", "Drama"],
