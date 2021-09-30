@@ -938,22 +938,7 @@
     "seasons": 1,
     "releaseDate": "23 April 2019"
   },
-  {
-    "id": 47,
-    "name": "Inside Edge",
-    "rating": 8,
-    "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
-    "category": ["Sport", "Drama"],
-    "platform": "Amazon Prime",
-    "casting": {
-      "actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
-      "director": ["Karan Anshuman"]
-    },
-    "poster": "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
-    "episodeCount": 24,
-    "seasons": 2,
-    "releaseDate": "22 July 2017"
-  },
+  
   {
     "id": 48,
     "name": "Dark",
@@ -1033,7 +1018,7 @@
     "releaseDate": "20 May 2021"
   },
   {
-  "id": 54,
+  "id": 52,
   "name": "Flames",
   "rating": 9.1,
   "description": "A teenage romance from The Timeliners that aims straight from the heart. This web-series is the story of a young romance unfolding as a chemical reaction.",
@@ -1047,5 +1032,21 @@
   "episodeCount": 5,
   "seasons": 2,
   "releaseDate": "18 Oct 2019"
-}
+},{
+    "id": 53,
+    "name": "Inside Edge",
+    "rating": 8,
+    "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
+    "category": ["Sport", "Drama"],
+    "platform": "Amazon Prime",
+    "casting": {
+      "actors": ["Richa Chadha", "Richa Chadha", "Tanuj Virwani"],
+      "director": ["Karan Anshuman"]
+    },
+    "poster": "https://images.app.goo.gl/QZTJgTiy7Y2uPGWR6",
+    "episodeCount": 24,
+    "seasons": 2,
+    "releaseDate": "22 July 2017"
+  }
+
 ]
