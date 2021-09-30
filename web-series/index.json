@@ -1064,40 +1064,22 @@
     "seasons": 1,
     "releaseDate": "28 May 2021"
   },
-   {
-  "id": 55,
-  "name": "Asur",
-  "rating": 8.1,
-  "description": "Asur is a 2020 Indian Hindi-language crime thriller web series, produced by Tanveer Bookwala of Ding Entertainment for the video on demand platform Voot.[2] The series stars Arshad Warsi, Barun Sobti and Amey Wagh. The series is set in the context of a modern day serial killer having religious ties. Arshad Warsi made his OTT debut through this series",
-  "category": ["Horrible", "Comedy"],
-  "platform": "Netflix",
-  "casting": {
-    "actors": ["Harshad Barsi", "Barun Sobti ", "Amey Wagh "],
-    "director": ["Raghav Subbu"]
-  },
-  "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
-  "episodeCount": 10,
-  "seasons": 1,
-  "releaseDate": "8 Sept 2019"
-
-  }
   {
-    "id": 56,
-    "name": "She",
-    "rating": 6.5,
-    "description": "She is an Indian crime drama streaming television series created and written by Imtiaz Ali and Divya Johry",
-    "category": ["crime", "drama"],
-    "platform": "Netflix",
+      {
+    "id": 55,
+    "name": "Operation MBBS",
+    "rating": 8.9,
+    "description": "First-year MBBS students face bullies, personal issues and several other ups and downs in their quest to earn a medical degree.",
+    "category": ["Drama"],
+    "platform": "Youtube",
     "casting": {
-      "actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"]
-      "director": ["Arif Ali Avinash Das"]
+      "actors": ["Ayush Mehra", "Anshul Chauhan", 	"Sarah Hashmi"],
+      "director": ["puneet Bhatra"]
     },
-    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
-    "episodeCount": 7,
-    "seasons": 1,
-    "releaseDate": "20 March 2020"
-  
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjZhOTVjMWUtY2NiOC00ODdmLWE1ODMtZDYxYzVjYzk0MzJkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+    "episodeCount": 5,
+    "seasons": 2,
+    "releaseDate": " 22 February, 2020"
   }
-  
-
+  }
 ]
