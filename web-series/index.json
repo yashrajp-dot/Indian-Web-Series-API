@@ -591,7 +591,7 @@
     "seasons": 3,
     "releaseDate": "25 October 2016"
  },
-{
+ {
     "id": 38,
     "name": "Hundred",
     "rating": 6.8,
@@ -607,7 +607,7 @@
     "seasons": 1,
     "releaseDate": "25 April 2020"
  },
-{
+ {
     "id": 39,
     "name": "Delhi Crime",
     "rating": 8.5,
@@ -622,5 +622,21 @@
     "episodeCount": 7,
     "seasons": 1,
     "releaseDate": "22 March 2019"
+  },
+  {
+    "id": 40,
+    "name": "Jamtara: Sabka Number Ayega",
+    "rating": 7.3,
+    "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it.",
+    "category": ["Crime"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Amit Sial","Dibyendu Bhattacharya","Aksha Pardasany"],
+      "director": ["Soumendra Padhi"]
+    },
+    "poster": "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
+    "episodeCount": 11,
+    "seasons": 1,
+    "releaseDate": "10 January 2020"
  }
 ]
