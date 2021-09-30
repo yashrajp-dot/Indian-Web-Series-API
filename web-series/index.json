@@ -736,7 +736,7 @@
     "releaseDate": "22 April 2019"
  },
 {
-    "id": 49,
+    "id": 47,
     "name": "Inside Edge",
     "rating": 8,
     "description": "Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League.",
@@ -750,6 +750,38 @@
     "episodeCount": 24,
     "seasons": 2,
     "releaseDate": "22 July 2017"
- }
+},
+  {
+    "id": 48,
+    "name": "Dark",
+    "rating": 4.8,
+    "description": "Scintillating stories of murder mysteries all under the genre of erotic thriller. With characters bordering on the psychopath tendencies, the stories this season dwell upon the plethora of emotions that prompt crimes of passion.",
+    "category": ["Mystery"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Louis Hofmann","Andreas Pietschmann","Ella Lee","Lisa Vicari"],
+      "director": ["Baran bo Odar"]
+    },
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsGlRa-W2Z5dTx2ZC9nK_88u1NlwUhnxKCkPFAJvoD8mFeu3f0HEuvAERtHxwEcfYFMg&usqp=CAU",
+    "episodeCount": 26,
+    "seasons": 3,
+    "releaseDate": "1 December 2017"
+ },
+{
+  "id": 49,
+  "name": "Criminal Justice",
+  "rating": 8.1,
+  "description": "Sex, drugs and a gruesome murder. An edgy one night stand turns into a nightmare for Aditya, when he wakes up with blood on his hands. The evidence is stacked against him, but he doesn't remember the grisly crime. Is he guilty or not ?",
+  "category": ["Mystery", "Drama"],
+  "platform": "Hotstar",
+  "casting": {
+    "actors": ["Mayur More", "Jitendra Kumar", "Revathi Pillai", "Urvi Singh", "Alam Khan", "Ahsaas Channa", "Ranjan Raj"],
+    "director": ["Raghav Subbu"]
+  },
+  "poster": "https://www.imdb.com/title/tt9095260/mediaviewer/rm3311100928/?ref_=tt_ov_i",
+  "episodeCount": 10,
+  "seasons": 1,
+  "releaseDate": "5 April 2019"
+}
   
 ]
