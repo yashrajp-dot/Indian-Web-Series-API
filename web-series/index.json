@@ -1185,6 +1185,27 @@
     "seasons": 2,
     "releaseDate": "	15 May 2020"
   },
-
+{
+    "id": 64,
+    "name": "Breaking Bad",
+    "rating": 9.4,
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "category": ["Crime", "Drama", "Thriller"],
+    "platform": "",
+    "casting": {
+      "actors": [
+        "Bryan Cranston",
+        "Aaron Paul",
+        "Dean Norris",
+        "Anna Gunn",
+        "Betsy Brandt",
+      ],
+      "director": ["Vince Gilligan"]
+    },
+    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fbreaking-bad-poster-series-posters-room-office-paper-print%2Fp%2Fitm44706fffd0682&psig=AOvVaw3rt6mKhIrnRi8xDv0m905o&ust=1633118552957000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiGuOy-p_MCFQAAAAAdAAAAABAD",
+    "episodeCount": 62,
+    "seasons": 5,
+    "releaseDate": "20 January 2008"
+},
   
 ]
