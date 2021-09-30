@@ -1080,7 +1080,7 @@
   "seasons": 1,
   "releaseDate": "8 Sept 2019"
 
-  }
+  },
   {
     "id": 56,
     "name": "She",
@@ -1096,6 +1096,23 @@
     "episodeCount": 7,
     "seasons": 1,
     "releaseDate": "20 March 2020"
+  
+  },
+{
+    "id": 57,
+    "name": "Bandish Bandits ",
+    "rating": 8.7,
+    "description": "Classical music student Radhe and pop sensation Tamanna, coming from very different worlds of music, set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul",
+    "category": ["romance", "drama"],
+    "platform": "Amazon Prime",
+    "casting": {
+      "actors": ["Tamanna", "Radhe"]
+      "director": ["Amritpal Singh Bindra"," Anand Tiwari"]
+    },
+    "poster": "https://en.wikipedia.org/wiki/File:Bandish_Bandits_poster.jpg",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "4 August 2020"
   
   }
   
