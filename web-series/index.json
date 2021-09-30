@@ -638,5 +638,53 @@
     "episodeCount": 11,
     "seasons": 1,
     "releaseDate": "10 January 2020"
+ },
+ {
+    "id": 41,
+    "name": "Hostel Daze",
+    "rating": 8.6,
+    "description": "Through the adventures of four friends 'Hostel Daze' captures what goes inside an engineering hostel in India.",
+    "category": ["Comedy","Drama"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": ["Adarsh Gourav","	Nikhil Vijay","Shubham Gaur","Ahsaas Channa"],
+      "director": ["Raghav Subbu","Amir Musanna","Sangram Naiksatam"]
+    },
+    "poster": "https://www.imdb.com/title/tt8595766/mediaviewer/rm2060666368/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 2,
+    "releaseDate": "13 December 2019"
+ },
+ {
+    "id": 42,
+    "name": "Illegal - Justice,Out of Order",
+    "rating": 7.5,
+    "description": "An idealistic lawyer is trapped in the murky world of criminal law. Two cases (one about the death penalty for women in India, the other about sexual harassment in the workplace) show how out of order the justice system can be.",
+    "category": ["Comedy","Drama","Thriller"],
+    "platform": "Voot",
+    "casting": {
+      "actors": ["Neha Sharma","Akshay Oberoi","Piyush Mishra"],
+      "director": ["Sahir Raza"]
+    },
+    "poster": "https://www.imdb.com/title/tt10308632/mediaviewer/rm3671308033/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "12 May 2020"
+ },
+ {
+    "id": 43,
+    "name": "The Gone Game",
+    "rating": 7.8,
+    "description": "In the midst of a pandemic, Sahil Gujral goes missing. Thought to be a victim of the coronavirus at first, his death points to a mysterious crime.",
+    "category": ["Crime","Thriller"],
+    "platform": "Voot",
+    "casting": {
+      "actors": ["Sanjay Kapoor","Arjun Mathur","Shweta Tripathi","Shriya Pilgaonkar"],
+      "director": ["Nikhil Bhat"]
+    },
+    "poster": "https://www.imdb.com/title/tt12768990/mediaviewer/rm3545801473/?ref_=tt_ov_i",
+    "episodeCount": 4,
+    "seasons": 1,
+    "releaseDate": "20 August 2020"
  }
 ]
