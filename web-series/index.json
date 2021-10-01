@@ -832,7 +832,7 @@
     "casting": {
       "actors": [
         "Adarsh Gourav",
-        "	Nikhil Vijay",
+        "Nikhil Vijay",
         "Shubham Gaur",
         "Ahsaas Channa"
       ],
@@ -1097,11 +1097,6 @@
     "episodeCount": 5,
     "seasons": 1,
     "releaseDate": "3 June 2015"
-  }
-
-  "releaseDate": "8 Sept 2019"
-
-
   },
   {
     "id": 56,
@@ -1240,18 +1235,18 @@
     "id": 63,
     "name": "Bandish Bandits",
     "rating": 8.7,
-    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two "set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
     "category": ["Romance", "Drama", "Music"],
     "platform": "amazon-prime",
     "casting": {
       "actors": [
         	
-"Ritwik Bhowmik"
-"Shreya Chaudhary"
-"Naseeruddin Shah"
-"Sheeba Chaddha"
-"Amit Mistry"
-"Kunaal Roy Kapur"
+"Ritwik Bhowmik",
+"Shreya Chaudhary",
+"Naseeruddin Shah",
+"Sheeba Chaddha",
+"Amit Mistry",
+"Kunaal Roy Kapur",
       ],
       "director": ["Anand Tiwari"]
     },
@@ -1323,6 +1318,7 @@
     "seasons": 2,
     "releaseDate": "3 April 2020"
 },
+{
 "id":67,
     "name": "Jeet KI jid",
     "rating": 8.4,
@@ -1342,6 +1338,7 @@
     "seasons": 1,
     "releaseDate": "328 November 2014"
 },
+{
 "id":68,
     "name": "Aspirants",
     "rating": 9.7,
@@ -1352,7 +1349,7 @@
       "actors": [
         "Naveen Kasturia",
         "Shivankit Singh",
-        "Abhilash Thapliyal "
+        "Abhilash Thapliyal ",
         "Namita Dubey"
       ],
       "director": ["Apoorv Singh Karki"]
@@ -1399,11 +1396,35 @@
       ],
       "director": ["Charuvi P. Agrawal, Sharad Devarajan, Jeevan J. Kang"]
     },
-    "poster": "https://www.imdb.com/video/vi1264828697?playlistId=tt13854248&ref_=tt_ov_vi",
-    "episodeCount": 26,
-    "seasons": 2,
-    "releaseDate": "29 january 2021"
-}
+
+    "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "16 March 2020"
+  },
+
+  {
+    "id": 71,
+    "name": "ImMATURE",
+    "rating": 8.8,
+    "description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever.",
+    "category": ["Comedy","Romance","Drama"],
+    "platform": "MX Player",
+    "casting": {
+      "actors": [
+        "Rashmi Agdekar",
+        "Omkar Kulkarni",
+        "Visshesh Tiwari",
+        "Dilip Merala",
+        "Gopal Datt"
+      ],
+      "director": ["Prem Mistry"]
+    },
+    "poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3688648192/",
+    "episodeCount": 5,
+    "seasons": 1,
+    "releaseDate": "18 February 2019"
+  }
 
 
 
