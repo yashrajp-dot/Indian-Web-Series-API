@@ -1472,7 +1472,7 @@
     "releaseDate": "25 Janaury 1987"
 },
 {
-    "id": 70,
+    "id": 74,
     "name": "Ghoul",
     "rating": 7.1,
     "description": "Ghoul is an Indian horror streaming television miniseries based on the Arab folklore monster ghoul, and the second Netflix original from India.",
@@ -1491,5 +1491,5 @@
     "episodeCount": 3,
     "seasons": 1,
     "releaseDate": "24 August 2018"
-} 
+}
 ]
