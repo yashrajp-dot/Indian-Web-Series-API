@@ -1283,4 +1283,25 @@
     "seasons": 5,
     "releaseDate": "20 January 2008"
 },
+{
+    "id": 65,
+    "name": "A Suitable boy",
+    "rating": 5.8,
+    "description": "A vast, panoramic tale charting the fortunes of four large families and exploring India and its rich and varied culture at a crucial point in its history.",
+    "category": [ "Drama", "Romance"],
+    "platform": "",
+    "casting": {
+      "actors": [
+        "Tanya Maniktala",
+        "Ishan Khattar",
+        "Mahira Kakkar",
+        "Danesh Razvi",
+      ],
+      "director": ["Mira Nair"]
+    },
+    "poster": "https://images.app.goo.gl/7nFyDYyFaJWCpRaV9",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "26 July 2020"
+}
 ]
