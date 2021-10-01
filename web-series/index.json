@@ -1550,5 +1550,46 @@
     "episodeCount": 9,
     "seasons": 1,
     "releaseDate": "2019"
+},
+{
+    "id": 77,
+    "name": "Made in Heaven",
+    "rating": 8.3,
+    "description": "It is the story of two wedding planners in Delhi, where tradition jostles with modern aspirations against the backdrop of big fat Indian weddings revealing many secrets and lies..",
+    "category": [ "Drama", "Romance"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": [
+        "Arjun Mathur",
+        "Sobhita Dhulipala",
+        "Jim Sarbh"
+      ],
+      "director": ["Zoya Akhtar","Nitya Mehra"]
+    },
+    "poster": "https://www.imdb.com/title/tt6494622/mediaviewer/rm2898882304/?ref_=tt_ov_i",
+    "episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "2019"
+},
+{
+    "id": 78,
+    "name": "Chutzpah",
+    "rating": 6.1,
+    "description": "Chutzpah is five stories intertwined with one another through the worldwide web, explore the complexities of real-life through the somewhat delusional online lives of the quirky net head characters.",
+    "category": [ "Drama"],
+    "platform": "SonyLiv",
+    "casting": {
+      "actors": [
+        "Varun Sharma",
+        "Manjot Singh",
+        "Elnaaz Norouji",
+        "Tanya Maniktala"
+      ],
+      "director": ["Simarpreet Singh"]
+    },
+    "poster": "https://www.imdb.com/title/tt13085536/mediaviewer/rm752287233/?ref_=ext_shr_lnk",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "2021"
 }
 ]
