@@ -1383,7 +1383,6 @@
     "releaseDate": "26 Janaury 2018"
 },
 
-
 {
     "id": 70,
     "name": "The legent of Hanuman",
@@ -1449,7 +1448,23 @@
     "episodeCount": 5,
     "seasons": 1,
     "releaseDate": "7 April 2021"
-}
-
-
+},
+{
+    "id": 73,
+    "name": "Ramayan",
+    "rating": 8.3,
+    "description": "Ramayan is a web series about life of lord Ram on Earth",
+    "category": [ "Drama", "Mythology"],
+    "platform": "Youtube",
+    "casting": {
+      "actors": [
+        "Arun Govil",
+      ],
+      "director": ["Ramanand Sagar"]
+    },
+    "poster": "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242"
+  "episodeCount": 78,
+    "seasons": 1,
+    "releaseDate": "25 Janaury 1987"
+},
 ]
