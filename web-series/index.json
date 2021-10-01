@@ -1280,6 +1280,10 @@
 },
 {
     "id": 65,
+    "name": "Ghoul",
+    "rating": 6.3,
+    "description": "In a totalitarian near-future India, a mysterious prisoner is sent to a remote military interrogation center where he turns the tables on his captors by exposing their most shameful secrets and unleashing a demon from Arabic folklore",
+    "category": ["Horror", "Thriller"],
     "name": "A Suitable boy",
     "rating": 5.8,
     "description": "A vast, panoramic tale charting the fortunes of four large families and exploring India and its rich and varied culture at a crucial point in its history.",
@@ -1468,7 +1472,7 @@
     "releaseDate": "25 Janaury 1987"
 },
 {
-    "id": 70,
+    "id": 74,
     "name": "Ghoul",
     "rating": 7.1,
     "description": "Ghoul is an Indian horror streaming television miniseries based on the Arab folklore monster ghoul, and the second Netflix original from India.",
@@ -1477,12 +1481,13 @@
     "casting": {
       "actors": [
         "Radhika Apte",
-        "Manav Kaul",
-        "S. M. Zaheer"
+         "Manav Kaul",
+         "Ratnabali Bhattacharjee",
+         "Mahesh Balraj",
       ],
       "director": ["Patrick Graham"]
     },
-    "poster": "https://www.google.com/search?q=indian+web+series+ghoul+poster&biw=1280&bih=657&sxsrf=AOaemvJ0N_PmxEQnRS48lgNTbN4xesuYaQ:1633076394337&tbm=isch&source=iu&ictx=1&fir=txAs8e8JDNl5MM%252CIMQoMHPy1SSvIM%252C_%253BdbzgZscEm6rIdM%252C2jwx2Yns0iexLM%252C_%253Bm39lGlxCsAsTLM%252CIMQoMHPy1SSvIM%252C_%253BqKZBCavNGXxaHM%252C2jwx2Yns0iexLM%252C_%253BpT138NPuyVzJfM%252C0uddl_W2_PeHMM%252C_%253BeGjbTVAA_mEMRM%252Cnm2SXzTf0aroRM%252C_%253BS5ZJGpF3qY47dM%252C2jwx2Yns0iexLM%252C_%253BdP_oceVHwAi4wM%252Ctv8lPcSMWVUPGM%252C_%253Bp-vJtvaeyCFR4M%252Ci125JIklsv8IoM%252C_%253BmmFIsSPJB1j3QM%252C2jwx2Yns0iexLM%252C_&vet=1&usg=AI4_-kTuz-oXlb9xbSXHZctZk37-DvxhVQ&sa=X&ved=2ahUKEwjyg4DT46jzAhUNSX0KHZxOB-IQ9QF6BAgHEAE#imgrc=txAs8e8JDNl5MM",
+    "poster": "https://i0.wp.com/vargiskhan.com/log/wp-content/uploads/2018/08/ghoul.jpg?resize=800%2C450",
     "episodeCount": 3,
     "seasons": 1,
     "releaseDate": "24 August 2018"
