@@ -1322,5 +1322,24 @@
     "episodeCount": 8,
     "seasons": 2,
     "releaseDate": "3 April 2020"
+},
+"id":67,
+    "name": "Jeet KI jid",
+    "rating": 8.4,
+    "description": "Inspired from a true story, Zidd is a tale of conviction, persuasion and commitment. It's the story of a man whose ability to turn impossible into possible, makes him unique and inspiring. The series follows the life of a Special forces officer Major Deep Singh who is left paralyzed waist below",
+    "category": ["Action", "Drama"],
+    "platform": "Zee 5",
+    "casting": {
+      "actors": [
+        "Amit Sad",
+        "Amrita Puri",
+        "Sushant Singh"
+      ],
+      "director": ["vivek Angihotri", "Rohit Malhotra"]
+    },
+    "poster": "https://www.imdb.com/title/tt12913686/mediaviewer/rm2601441025/",
+    "episodeCount": 7,
+    "seasons": 1,
+    "releaseDate": "328 November 2014"
 }
 ]
