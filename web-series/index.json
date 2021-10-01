@@ -1382,4 +1382,25 @@
     "seasons": 1,
     "releaseDate": "26 Janaury 2018"
 },
+
+{
+    "id": 70,
+    "name": "The legent of Hanuman",
+    "rating": 9.1,
+    "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend.",
+    "category": [ "Drama", "Epic","worship"],
+    "platform": "Hotstar",
+    "casting": {
+      "actors": [
+        "Da Man",
+        "Shakti Singh",
+        "Sharad kelkar"
+      ],
+      "director": ["Charuvi P. Agrawal, Sharad Devarajan, Jeevan J. Kang"]
+    },
+    "poster": "https://www.imdb.com/video/vi1264828697?playlistId=tt13854248&ref_=tt_ov_vi",
+    "episodeCount": 26,
+    "seasons": 2,
+    "releaseDate": "29 january 2021"
+}
 ]
