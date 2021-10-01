@@ -1607,5 +1607,21 @@
 		"episodeCount": 8,
 		"seasons": 1,
 		"releaseDate": "20 March 2020"
+	},
+  {
+		"id": 80,
+		"name": "Jamai 2.0",
+		"rating": 7.2,
+		"description": "Sid is a vengeful man on a mission, while Durga Devi is a conniving businesswoman. Will Sid be led astray when Roshni, Durga Devis daughter, comes into his life? What does the future hold for them?",
+		"category": ["Romance","Drama"],
+		"platform": "Zee 5",
+		"casting": {
+			"actors": ["Ravi Dubey", "Achint Kaur", "Nia Sharma"],
+			"director": ["Aarambhh M Singh","Madhu Vannier"]
+		},
+		"poster": "https://akamaividz2.zee5.com/image/upload/w_1366,h_548,c_scale,f_webp,q_auto:eco/resources/0-6-2007/cover/062007inlist321362011.jpg",
+		"episodeCount": 20,
+		"seasons": 2,
+		"releaseDate": "10 September 2019"
 	}
 ]
