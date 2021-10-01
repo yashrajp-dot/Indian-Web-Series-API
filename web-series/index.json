@@ -1283,4 +1283,26 @@
     "seasons": 5,
     "releaseDate": "20 January 2008"
 },
+{
+    "id": 65,
+    "name": "Ghoul",
+    "rating": 6.3,
+    "description": "In a totalitarian near-future India, a mysterious prisoner is sent to a remote military interrogation center where he turns the tables on his captors by exposing their most shameful secrets and unleashing a demon from Arabic folklore",
+    "category": ["Horror", "Thriller"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": [
+        "Radhika Apte",
+         "Manav Kaul",
+         "Ratnabali Bhattacharjee",
+         "Mahesh Balraj",
+      ],
+      "director": ["Patrick Graham"]
+    },
+    "poster": "https://i0.wp.com/vargiskhan.com/log/wp-content/uploads/2018/08/ghoul.jpg?resize=800%2C450",
+    "episodeCount": 3,
+    "seasons": 1,
+    "releaseDate": "24 August 2018"
+} 
+ 
 ]
