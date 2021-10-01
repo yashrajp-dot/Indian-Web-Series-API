@@ -1283,4 +1283,24 @@
     "seasons": 5,
     "releaseDate": "20 January 2008"
 },
+{
+    "id": 65,
+    "name": "PANCHAYAT",
+    "rating": 8.8,
+    "description": "A comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a Panchayat office in a remote village of Uttar Pradesh.",
+    "category": ["Comedy", "Drama"],
+    "platform": "Amazon Prime",
+    "casting": {
+      "actors": [
+        "Jitendra Kumar",
+        "Raghuvir Yadav",
+        "Chandan Roy"
+      ],
+      "director": ["Shri Kamlesh Kumar Tripathi"]
+    },
+    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt12004706%2F&psig=AOvVaw2zbNNoGLwC-HO7pvlRlUHe&ust=1633153982688000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiQ0vDCqPMCFQAAAAAdAAAAABAD",
+    "episodeCount": 8,
+    "seasons": 2,
+    "releaseDate": "3 April 2020"
+}
 ]
