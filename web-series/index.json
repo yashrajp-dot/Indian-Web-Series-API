@@ -1486,4 +1486,24 @@
     "episodeCount": 3,
     "seasons": 1,
     "releaseDate": "24 August 2018"
+},
+{
+    "id": 71,
+    "name": "Rajma Chawal",
+    "rating": 5.8,
+    "description": "Good family movie dealing with life in the big, decaying section of the city, Old Delhi.",
+    "category": [ "Comedy","Family","Drama"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": [
+        "Amyra Dastur",
+        "Rishi Kapoor",
+        "Manu Rishi Chadda"
+      ],
+      "director": ["Leena Yaddav"]
+    },
+    "poster": "https://www.google.com/search?q=rajma+chawal+poster&tbm=isch&ved=2ahUKEwi5wOb9_qjzAhXBnEsFHcRKD7sQ2-cCegQIABAA&oq=rajma+chawal+poster&gs_lcp=CgNpbWcQAzIFCAAQgAQ6CAgAEIAEELEDOggIABCxAxCDAToECAAQQzoHCAAQsQMQQzoLCAAQgAQQsQMQgwFQ6ShYmWRgwGVoAHAAeASAAZsDiAG7KJIBCjAuNy4xNS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABAMABAQ&sclient=img&ei=U-FWYfnKM8G5rtoPxJW92As&bih=657&biw=1280",
+    "episodeCount": 1,
+    "seasons": 1,
+    "releaseDate": " 2018"
 ]
