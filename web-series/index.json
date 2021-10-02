@@ -1138,7 +1138,7 @@
     "category": ["Drama"],
     "platform": "Youtube",
     "casting": {
-      "actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"]
+      "actors": ["Aaditi Pohankar as Bhumika Pardeshi", "Vijay Varma as Sasya"],
       "director": ["Arif Ali Avinash Das"]
     },
     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2f/She_%28TV_series%29_poster.jpg",
@@ -1174,7 +1174,7 @@
     "category": ["romance", "drama"],
     "platform": "Amazon Prime",
     "casting": {
-      "actors": ["Tamanna", "Radhe"]
+      "actors": ["Tamanna", "Radhe"],
       "director": ["Amritpal Singh Bindra"," Anand Tiwari"]
     },
     "poster": "https://en.wikipedia.org/wiki/File:Bandish_Bandits_poster.jpg",
@@ -1193,21 +1193,14 @@
     "category": ["Crime", "Drama", "Action"],
     "platform": "Netflix",
     "casting": {
-      "actors": [
-        	
-"Jaideep Ahlawat"
-"Gul Panag"
-"Neeraj Kabi"
-"Swastika Mukherjee"
-"Ishwak Singh"
-"Abhishek Banerjee"
+      "actors": ["Jaideep Ahlawat", "Gul Panag","Neeraj Kabi","Swastika Mukherjee", "Ishwak Singh","Abhishek Banerjee"
       ],
-      "director": ["	Avinash Arun"]
+      "director": ["Avinash Arun"]
     },
     "poster": "data:image/jpeg;base64,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",
     "episodeCount": 9,
     "seasons": 2,
-    "releaseDate": "	15 May 2020"
+    "releaseDate": "15 May 2020"
   },
 {
     "id": 62,
@@ -1222,9 +1215,9 @@
         "Aalekh Kapoor",
         "Keshav Sadhna",
         "Rajat Kapoor",
-        "Tanuj Virwani",
+        "Tanuj Virwani"
       ],
-      "director": ["Baljit Singh Chaddha	"]
+      "director": ["Baljit Singh Chaddha"]
     },
     "poster": "https://www.imdb.com/title/tt11536424/mediaviewer/rm2437251329/",
     "episodeCount": 8,
@@ -1246,7 +1239,7 @@
 "Naseeruddin Shah",
 "Sheeba Chaddha",
 "Amit Mistry",
-"Kunaal Roy Kapur",
+"Kunaal Roy Kapur"
       ],
       "director": ["Anand Tiwari"]
     },
@@ -1269,7 +1262,7 @@
         "Aaron Paul",
         "Dean Norris",
         "Anna Gunn",
-        "Betsy Brandt",
+        "Betsy Brandt"
       ],
       "director": ["Vince Gilligan"]
     },
@@ -1294,7 +1287,7 @@
         "Tanya Maniktala",
         "Ishan Khattar",
         "Mahira Kakkar",
-        "Danesh Razvi",
+        "Danesh Razvi"
       ],
       "director": ["Mira Nair"]
     },
@@ -1356,7 +1349,7 @@
       "actors": [
         "Sayani Gupta",
         "Maanvi Gagroo",
-        "V J Bani"
+        "V J Bani",
         "Lisa Ray"
       ],
       "director": ["Anu Menon, Nupur Asthana"]
@@ -1461,13 +1454,11 @@
     "category": [ "Drama", "Mythology"],
     "platform": "Youtube",
     "casting": {
-      "actors": [
-        "Arun Govil",
-      ],
+      "actors": ["Arun Govil"],
       "director": ["Ramanand Sagar"]
     },
-    "poster": "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242"
-  "episodeCount": 78,
+    "poster": "https://www.google.com/search?q=ramayan+&tbm=isch&ved=2ahUKEwiC_ZLU4qjzAhUwoUsFHTshCocQ2-cCegQIABAA&oq=ramayan+&gs_lcp=CgNpbWcQAzIHCCMQ7wMQJzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgQIABAYUOkiWMEuYNszaABwAHgAgAHpAYgB3wuSAQUwLjYuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=oMNWYYKtErDCrtoPu8KouAg&bih=568&biw=1242",
+    "episodeCount": 78,
     "seasons": 1,
     "releaseDate": "25 Janaury 1987"
 },
@@ -1483,7 +1474,7 @@
         "Radhika Apte",
          "Manav Kaul",
          "Ratnabali Bhattacharjee",
-         "Mahesh Balraj",
+         "Mahesh Balraj"
       ],
       "director": ["Patrick Graham"]
     },
@@ -1496,7 +1487,7 @@
     "id": 71,
     "name": "Bard Of Blood",
     "rating": 6.9,
-    "description": "Political espionage thriller based on "Bard of Blood," by Bilal Siddiqi.
+    "description": "Political espionage thriller based on 'Bard of Blood' by Bilal Siddiqi",
     "category": [ "Thriller"],
     "platform": "Netflix",
     "casting": {
