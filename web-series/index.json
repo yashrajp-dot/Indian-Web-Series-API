@@ -1640,6 +1640,23 @@
     "episodeCount": 7,
     "seasons": 2,
     "releaseDate": "2021"
+  },
+
+{
+    "id": 81,
+    "name": "Asur: Welcome to Your Dark Side",
+    "rating": 9,
+    "description": "Asur is a 2020 Indian Hindi-language crime thriller web series, produced by Tanveer Bookwala of Ding Entertainment for the video on demand platform Voot. The series stars Arshad Warsi, Barun Sobti and Amey Wagh. The series is set in the context of a modern day serial killer having religious ties.",
+    "category": ['Crime', 'Mystery', 'Thriller'],
+    "platform": "Voot",
+    "casting": {
+      "actors": ["Arshad Warsi", "Barun Sobti "],
+      "director": ["Oni Sen"]
+    },
+    "poster": "https://en.wikipedia.org/wiki/Asur_(web_series)#/media/File:Asur_Title.jpg",
+    "episodeCount": 8,
+    "seasons": 1,
+    "releaseDate": "2020"
   }
 {
     "id": 81,
