@@ -3196,7 +3196,7 @@
     "episodeCount": 8,
     "seasons": 1,
     "releaseDate": "2020"
-  }
+  },
 {
     "id": 81,
     "name": "Hostages",
@@ -3212,5 +3212,37 @@
     "episodeCount": 22,
     "seasons": 2,
     "releaseDate": "2019"
-}
+},
+{
+    "id": 82,
+    "name": "Hasmukh",
+    "rating": 5.3,
+    "description": "A timid, small-town comedian's long-awaited big break takes a dark turn when he realizes committing murder is the only way to keep his onstage mojo.",
+    "category": ["Comedy,Crime"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Vir Das", "Ranvir Shorey", "Amrita Bagchi", "Ravi Kishan"],
+      "director": ["Nikhil Gonsalves"]
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThhOWJjZTAtNzFhYy00NDMwLTk5YzMtMDAwMDJkODJmZWFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "2020"
+},
+{
+    "id": 83,
+    "name": "Ray",
+    "rating": 7.2,
+    "description": "From a satire to a psychological thriller, four short stories from celebrated auteur and writer Satyajit Ray are adapted for the screen in this series.",
+    "category": ["Drama"],
+    "platform": "Netflix",
+    "casting": {
+      "actors": ["Manoj Bajpayee", "Ali Fazal","Harshvardhan Kapoor","Kay Kay Menon"],
+      "director": ["Vasan Bala","Srijit Mukherji","Abhishek Chaubey"]
+    },
+    "poster": "https://static.toiimg.com/photo/msid-83358579/Ray.jpg?83358579",
+    "episodeCount": 4,
+    "seasons": 1,
+    "releaseDate": "2021"
+  }
 ]
