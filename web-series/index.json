@@ -3244,7 +3244,7 @@
     "episodeCount": 4,
     "seasons": 1,
     "releaseDate": "2021"
-  }
+  },
  {
     "id":84 ,
     "name": "Mumbai diaries",
@@ -3298,7 +3298,6 @@
     "Swara Bhasker ",
     "Ayushmaan Saxena",
     "Rashmi Agdekar",
-
   ] ,
   "director": ["Nikhil Nagesh Bhat"]
 },
@@ -3307,4 +3306,24 @@
 "seasons": 1,
 "releaseDate": "25 June 2020"
 },
+  {
+	"id": 87,
+	"name": "Mismatched",
+	"rating": 5.5,
+	"description": "The movie will be a romantic film featuring two people who are not right for each other. The story is about Prajakta's character who is a tech wizard and the guy who is interested in her.",
+	"category": ["Comedy", "Drama", "Romance"],
+	"platform": "Netflix",
+	"casting": {
+		"actors": [
+			"Prajakta Koli",
+			"Rohit Saraf",
+			"Muskkaan Jaferi"
+		],
+		"director": ["Akarsh Khurana", "Nipun Dharmadhikhari"]
+	},
+	"poster": "https://www.imdb.com/title/tt12719250/mediaviewer/rm1713823233/",
+	"episodeCount": 6,
+	"seasons": 1,
+	"releaseDate": "20-11-2020"
+  }
 ]
