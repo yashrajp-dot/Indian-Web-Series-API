@@ -3326,4 +3326,26 @@
 	"seasons": 1,
 	"releaseDate": "20-11-2020"
   }
+{
+	"id": 88,
+	"name": "Aspirant",
+	"rating": 9.7,
+	"description": "The story follows three friends, Abhilash, Guri and SK (Shwet Ketu Jha) who are preparing for the UPSC exam at Rajinder Nagar, Delhi.",
+	"category": ["Motivational", "Romance"],
+	"platform": "YouTube",
+	"casting": {
+		"actors": [
+			"Naveen Kasturia"
+			"Shivankit Parihar" 
+			"Abhilash Thapliyal"
+			"Sunny Hinduja"
+			"Namita Dubey",
+		],
+		"director": ["Apoorv Singh Karki"]
+	},
+	"poster": "https://m.media-amazon.com/images/M/MV5BMTA5Y2FlNzMtMmJhZi00OGJiLTg0MjMtMjVhMjFjZDE1ODkxXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+	"episodeCount": 5,
+	"seasons": 1,
+	"releaseDate": "07-04-2021"
+  }
 ]
