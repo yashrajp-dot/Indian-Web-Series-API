@@ -1707,5 +1707,22 @@
         "seasons": 2,
         "releaseDate": "2018"
    }
+ {
+        "id": 94,
+        "name": "The Defenders",
+        "rating": 7.2,
+        "description": "1 ISFJ stands for introverted, sensing, feeling, judging. This personality type is given the nickname "The Protector" or "The Defender," and for good reason. 2 People who have ISFJ personalities are known for being warm-hearted, responsible, and reserved.",
+        "category": ["Science fiction", "Superhero fiction"],
+        "platform": "Netflix",
+        "casting": {
+            "actors": [
+                "Charlie Cox",
+                "Mike Colter",
+                "Elodie Yung",
+                "Krysten Ritter",
+              
+            ],
+            "director": ["Marco Ramirez"]
+        },
         
 ]
