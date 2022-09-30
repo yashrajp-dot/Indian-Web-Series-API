@@ -1784,6 +1784,30 @@
         "seasons": 2,
         "releaseDate": "16-04-2019"
     },
+   {
+        "id": 98,
+        "name": "The Legend Of Hanuman",
+        "rating": 9.1,
+        "description": "The Legend of Hanuman is an Indian animated Hindu History series created by Sharad Devarajan, Jeevan J. Kang and Charuvi Agrawal for Disney+ Hotstar.",
+        "category": ["Action"],
+        "platform": "Disney+Hotstar",
+        "casting": {
+            "actors": [
+                "Amit Deondi",
+                "Pushkar Vijay",
+                "Sharad Kelkar",
+                "Vikrant Caturvedi",
+                "Rich Ting",
+                "Shakti Singh",
+                "Rajeev Raj"
+            ],
+            "director": ["Rich Tang","Da.Man"]
+        },
+        "poster": "https://en.wikipedia.org/wiki/File:The_Legend_of_Hanuman_Poster.jpeg",
+        "episodeCount": 26,
+        "seasons": 2,
+        "releaseDate": "29-01-2021"
+},
     {
         "id": 98,
         "name": "The Office (India TV Series)",
@@ -1807,7 +1831,8 @@
         "episodeCount": 27,
         "seasons": 2,
         "releaseDate": "28-07-2019"
-    }
+
+    },
 
  {
         "id": 98,
@@ -1833,6 +1858,6 @@
                 "S1" : "7 September 2016",
                 "S2" : "5 April 2019"
         }
-    },  
+    }
 
 ]
