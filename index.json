@@ -1709,7 +1709,6 @@
    },
    {
     "id": 94,
-
     "name": "Please Find Attached",
     "rating": 8.9,
     "description": "It is an Office romance working on love as well as their individual development",
@@ -1724,10 +1723,28 @@
     "seasons": 3,
     "releaseDate": "2018"
 
-},
- {
-         "id": 95,
+  },
+  {
+    "id": 95,
+    "name": "Bandon Main tha Dam",
+    "rating": 9.0,
+    "description": "This series is based on the win of indian team in Austrelia for test match series",
+    "category": ["real incidence"],
+    "platform": "Voot",
+    "casting": {
+        "actors": ["Indian team"],
+        "director": ["Neeraj Pandey"]
+    },
+    "poster": "https://trakt.tv/shows/bandon-mein-tha-dum",
+    "episodeCount": "4",
+    "seasons": 1,
+    "releaseDate": "16/06/2022"
+},   
 
+
+
+ {
+    "id": 96,
     "name": "wedding season",
     "rating": 6.3,
     "description": "Pressured by their parents to find spouses, Asha and Ravi pretend to date during a summer of weddings, only to find themselves falling for each other.",
@@ -1738,14 +1755,13 @@
         "director": ["Tom Dey"]
     },
     "poster": "https://www.imdb.com/title/tt11426572/?ref_=tt_mv_close",
-    "Movie time": "1 hr 38 min",
+    "seasons": 1,
     "releaseDate": "2022"
- },
-        
+  },     
 
 
-        {
-        "id": 95,
+   {
+        "id": 97,
         "name": "Kota Factory",
         "rating": 9.2,
         "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives",
@@ -1767,6 +1783,7 @@
         "episodeCount": 10,
         "seasons": 2,
         "releaseDate": "16-04-2019"
-    },
+    }
+
 
 ]
