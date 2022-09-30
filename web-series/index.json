@@ -1771,5 +1771,27 @@
         "episodeCount": 8,
         "seasons": 2,
         "releaseDate": "2022"
-       }  
+       }  ,
+{
+        "id": 98,
+        "name": "Special OPS 1.5",
+        "rating": 8.6,
+        "description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
+        "category": ["Crime", "Thriller", "Action"],
+        "platform": "Hotstar",
+        "casting": {
+            "actors": [
+                "Kay Kay Menon",
+                "Karan Tacker",
+                "Gautami Kapoor",
+                "Vinay Pathak",
+                "Meher Vij"
+            ],
+            "director": ["Neeraj Pandey", "Shivam Nair"]
+        },
+        "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+        "episodeCount": 8,
+        "seasons": 1,
+        "releaseDate": "16 March 2020"
+    },
 ]
