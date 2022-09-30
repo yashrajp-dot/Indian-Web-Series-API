@@ -1785,5 +1785,30 @@
         "releaseDate": "16-04-2019"
     }
 
+ {
+        "id": 98,
+        "name": "TVF Tripling",
+        "rating": 8.5,
+        "description": "TVF Tripling is an Indian Hindi-language web series created by The Viral Fever. It was developed by Sameer Saxena and written by Akarsh Khurana and Sumeet Vyas. The series star Vyas in the lead role along with Maanvi Gagroo and Amol Parashar, along with Kunaal Roy Kapur, Nidhi Bisht, Kumud Mishra, and Shernaz Patel. ",
+        "category": ["Feel-Good" , "Drama"],
+        "platform": "TVF Play",
+        "casting": {
+            "actors": [
+                "Sumeet Vyas",
+                "Amol Parashar",
+                "Maanvi Gagroo",
+                "Kunaal Roy Kapur",
+                "Nidhi Bisht"
+            ],
+            "director": ["Rajesh Krishnan" , "Sameer Saxena"]
+        },
+        "poster": "https://www.imdb.com/title/tt6005644/mediaviewer/rm2166123776/?ref_=tt_ov_i",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": {
+                "S1" : "7 September 2016",
+                "S2" : "5 April 2019"
+        }
+    },  
 
 ]
