@@ -1,1 +1,1 @@
-# indianWebSeriesAPI
+# Indian WebSeriesAPI
