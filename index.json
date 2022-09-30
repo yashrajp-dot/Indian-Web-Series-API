@@ -1783,6 +1783,30 @@
         "episodeCount": 10,
         "seasons": 2,
         "releaseDate": "16-04-2019"
+    },
+   {
+        "id": 98,
+        "name": "The Legend Of Hanuman",
+        "rating": 9.1,
+        "description": "The Legend of Hanuman is an Indian animated Hindu History series created by Sharad Devarajan, Jeevan J. Kang and Charuvi Agrawal for Disney+ Hotstar.",
+        "category": ["Action"],
+        "platform": "Disney+Hotstar",
+        "casting": {
+            "actors": [
+                "Amit Deondi",
+                "Pushkar Vijay",
+                "Sharad Kelkar",
+                "Vikrant Caturvedi",
+                "Rich Ting",
+                "Shakti Singh",
+                "Rajeev Raj"
+            ],
+            "director": ["Rich Tang","Da.Man"]
+        },
+        "poster": "https://en.wikipedia.org/wiki/File:The_Legend_of_Hanuman_Poster.jpeg",
+        "episodeCount": 26,
+        "seasons": 2,
+        "releaseDate": "29-01-2021"
     }
 
 
