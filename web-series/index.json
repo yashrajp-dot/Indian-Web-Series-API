@@ -1689,5 +1689,21 @@
         "episodeCount": 22,
         "seasons": 2,
         "releaseDate": "2019"
+    },
+    {
+        "id": 93,
+        "name": "ImMature",
+        "rating": 8.7,
+        "description": "ImMature is a 2019 Indian Hindi-language coming-of-age romantic comedy web series produced by The Viral Fever. The series is directed by Prem Mistry and written by Abhishek Yadav, Nishaad Zaveri, Suprith Kundar. It stars Omkar Kulkarni, Rashmi Agdekar, Chinmay Chandranushush and Visshesh Tiwari in the lead roles.",
+        "category": ["teenage", "comedy"],
+        "platform": "Prime Video",
+        "casting": {
+            "actors": ["Omkar Kulkarni", "Chinmay Chandraunshuh", "Rashmi Agdekar"],
+            "director": ["Prem Mistry", "Anant Singh"]
+        },
+        "poster": "https://www.imdb.com/title/tt8254348/mediaviewer/rm3653828609/?ref_=tt_ov_i",
+        "episodeCount": 12,
+        "seasons": 2,
+        "releaseDate": "2022"
     }
 ]
