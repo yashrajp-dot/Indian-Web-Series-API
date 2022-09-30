@@ -1709,7 +1709,6 @@
    },
    {
     "id": 94,
-
     "name": "Please Find Attached",
     "rating": 8.9,
     "description": "It is an Office romance working on love as well as their individual development",
@@ -1723,6 +1722,199 @@
     "episodeCount": "15",
     "seasons": 3,
     "releaseDate": "2018"
-}
-        
-]
+
+  },
+  {
+    "id": 95,
+    "name": "Bandon Main tha Dam",
+    "rating": 9.0,
+    "description": "This series is based on the win of indian team in Austrelia for test match series",
+    "category": ["real incidence"],
+    "platform": "Voot",
+    "casting": {
+        "actors": ["Indian team"],
+        "director": ["Neeraj Pandey"]
+    },
+    "poster": "https://trakt.tv/shows/bandon-mein-tha-dum",
+    "episodeCount": "4",
+    "seasons": 1,
+    "releaseDate": "16/06/2022"
+},
+
+
+
+ {
+    "id": 96,
+    "name": "wedding season",
+    "rating": 6.3,
+    "description": "Pressured by their parents to find spouses, Asha and Ravi pretend to date during a summer of weddings, only to find themselves falling for each other.",
+    "category": ["Comedy, Drama, Romance"],
+    "platform": "Netflix",
+    "casting": {
+        "actors": ["Pallavi Sharda, Suraj Sharma "],
+        "director": ["Tom Dey"]
+    },
+    "poster": "https://www.imdb.com/title/tt11426572/?ref_=tt_mv_close",
+    "seasons": 1,
+    "releaseDate": "2022"
+  },
+
+
+   {
+        "id": 97,
+        "name": "Kota Factory",
+        "rating": 9.2,
+        "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives",
+        "category": ["Comedy", "Drama"],
+        "platform": "Netflix",
+        "casting": {
+            "actors": [
+                "Mayur More",
+                "Jitendra Kumar",
+                "Revathi Pillai",
+                "Urvi Singh",
+                "Alam Khan",
+                "Ahsaas Channa",
+                "Ranjan Raj"
+            ],
+            "director": ["Raghav Subbu"]
+        },
+        "poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": "16-04-2019"
+  },
+ 
+ 
+ 
+   {
+        "id": 98,
+        "name": "The Family Man",
+        "rating": 8.7,
+        "description": "The Family Man is an Indian spy thriller streaming television series created by Raj Nidimoru and Krishna D.K.[1] for the streaming service Amazon Prime Video and features Manoj Bajpayee as Srikant Tiwari, a middle-class man secretly working as an intelligence officer for the Threat Analysis and Surveillance Cell (TASC), a fictitious branch of the National Investigation Agency.",
+        "category": ["Indian Spy", "Thriller"],
+        "platform": "amazon prime",
+        "casting": {
+            "actors": [
+                "Mannoj Bajpayee",
+                "Priyamani",
+                "Ashlesha Thakur",
+                "Vedant Sinha",
+                "Sharib Hashmi",
+                "Shahab Ali",
+                "Samantha Ruth Prabhu"
+            ],
+            "director": ["Raj & D.K"]
+        },
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGY2MmRmNGEtYzkzZC00MzE5LTkwNzAtM2Q4OGM2NGE5ODllXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY100_CR16,0,100,100_AL_.jpg/",
+        "episodeCount": 19,
+        "seasons": 2,
+        "releaseDate": "20-09-2019"
+    },
+
+
+    },
+   {
+        "id": 98,
+        "name": "The Legend Of Hanuman",
+        "rating": 9.1,
+        "description": "The Legend of Hanuman is an Indian animated Hindu History series created by Sharad Devarajan, Jeevan J. Kang and Charuvi Agrawal for Disney+ Hotstar.",
+        "category": ["Action"],
+        "platform": "Disney+Hotstar",
+        "casting": {
+            "actors": [
+                "Amit Deondi",
+                "Pushkar Vijay",
+                "Sharad Kelkar",
+                "Vikrant Caturvedi",
+                "Rich Ting",
+                "Shakti Singh",
+                "Rajeev Raj"
+            ],
+            "director": ["Rich Tang","Da.Man"]
+        },
+        "poster": "https://en.wikipedia.org/wiki/File:The_Legend_of_Hanuman_Poster.jpeg",
+        "episodeCount": 26,
+        "seasons": 2,
+        "releaseDate": "29-01-2021"
+},
+    {
+        "id": 98,
+        "name": "The Office (India TV Series)",
+        "rating": 5.6,
+        "description": "The (mis)adventures of boss Jagdeep Chaddha and his staff at the paper company Wilkins Chawla, in Delhi.",
+        "category": ["Comedy", "Drama"],
+        "platform": "Disny+ Hotstar",
+        "casting": {
+            "actors": [
+                "Gopal Datt",
+                "Sayandeep Sengupta",
+                "Samridhi Sharma",
+                "Abhinav Sharma",
+                "Priyanka Setia",
+                "Preeti Kochar",
+                "Ranjan Raj"
+            ],
+            "director": ["Bumpy", "Rohan Sippy", "Debbie Rao"]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_office_poster.jpg",
+        "episodeCount": 27,
+        "seasons": 2,
+        "releaseDate": "28-07-2019"
+
+    },
+
+ {
+        "id": 98,
+        "name": "TVF Tripling",
+        "rating": 8.5,
+        "description": "TVF Tripling is an Indian Hindi-language web series created by The Viral Fever. It was developed by Sameer Saxena and written by Akarsh Khurana and Sumeet Vyas. The series star Vyas in the lead role along with Maanvi Gagroo and Amol Parashar, along with Kunaal Roy Kapur, Nidhi Bisht, Kumud Mishra, and Shernaz Patel. ",
+        "category": ["Feel-Good" , "Drama"],
+        "platform": "TVF Play",
+        "casting": {
+            "actors": [
+                "Sumeet Vyas",
+                "Amol Parashar",
+                "Maanvi Gagroo",
+                "Kunaal Roy Kapur",
+                "Nidhi Bisht"
+            ],
+            "director": ["Rajesh Krishnan" , "Sameer Saxena"]
+        },
+        "poster": "https://www.imdb.com/title/tt6005644/mediaviewer/rm2166123776/?ref_=tt_ov_i",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": {
+                "S1" : "7 September 2016",
+                "S2" : "5 April 2019"
+        }
+    }
+
+{
+        "id": 98,
+        "name": "The Whistleblower",
+        "rating": 7.5,
+        "description": "Education is one of the top businesses in India and PMT scam is one of those serial scams in Education that gives wings to the scammers who use Proxy and contacts for paper leaks and planned cheating. The series is based on PMT Scam 2013.",
+        "category": ["Thriller" , "Drama"],
+        "platform": "Sony liv",
+        "casting": {
+            "actors": [
+                "Ritvik Bhowmik",
+                "Ankitta sharma",
+                "Riddhi khakhar",
+                "Ashish Verma",
+                "Hemant kher"
+            ],
+            "director": ["Manoj Pillai"]
+        },
+        "poster": "https://www.google.com/search?q=whistleblower+series+poster&tbm=isch&ved=2ahUKEwiD7JeqqL36AhUmk9gFHac0AX0Q2-cCegQIABAA&oq=whistleblower+series+poster&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQGFCHA1iILGCcLmgAcAB4AIABkQKIAbMUkgEGMC4xNy4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=H0w3Y8PgB6am4t4Pp-mE6Ac&bih=704&biw=767#imgrc=zWkSTvW2lTy-rM",
+        "episodeCount": 6,
+        "seasons": 1,
+        "releaseDate": {
+                "S1" : "16 december 2021",
+        }
+    }
+
+
+
+] 
