@@ -1707,5 +1707,30 @@
         "seasons": 2,
         "releaseDate": "2018"
    }
+ 
+ {
+        "id": 94,
+        "name": "Never Have I Ever",
+        "rating":7.9,
+        "description": "After a traumatic year, a first-generation Indian-American teenager wants to improve her status at school, but friends, family, and feelings don't make it easy on her.",
+        "category": ["Comedy drama; Coming of age; Teen dram"],
+        "platform": " Netflix",
+        "casting": {
+            "actors": [
+                "Maitreyi Ramakrishnan",
+                "Darren Barnet",
+                "Jaren Lewison",
+                "Richa Moorjani",
+                "Megan Suri",
+                "Poorna Jagannathan",
+                "Lee Rodriguez",
+                "Benjamin Norris"
+            ],
+                "director": ["Kabir Akhtar,Tristram Shapeero,Anu Vali,Maggie Carey,Lena Khan,Linda Mendoza,Lang Fisher,Claire Scanlon,Smriti MundhraKim Nguye"]
+        },
+        "episodeCount": 10,
+        "seasons": 3,
+        "releaseDate": "August 12, 2022"
+    },
         
 ]
