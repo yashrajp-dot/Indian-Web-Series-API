@@ -1724,5 +1724,21 @@
         "seasons": 2,
         "releaseDate": "2018"
    }
+            {
+        "id": 93,
+
+        "name": "The Broken News",
+        "rating": 7.7,
+        "description": "The Broken News is a 2022 Indian Hindi-language web-series on ZEE5 starring Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar. It is a remake of the British series Press."
+        "platform": "ZEE5",
+        "casting": {
+            "actors": ["Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar."],
+            "director": ["Vinay Waikul"]
+        },
+        "poster": "https://m.imdb.com/title/tt20319332/mediaindex/?ref_=tt_mi_sm",
+        "episodeCount": 8,
+        "seasons": 2,
+        "releaseDate": "2022"
+   }
         
 ]
