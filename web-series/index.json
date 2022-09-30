@@ -1706,6 +1706,23 @@
         "episodeCount": 86,
         "seasons": 2,
         "releaseDate": "2018"
+   },
+ {
+        "id": 94,
+
+        "name": "MR. ROBOT",
+        "rating": 8.6,
+        "description": "Elliot,a cyber-security engineer suffering from anxiety,work for a corporation and hacks felons by night.Panic strikes him after Mr Robot,a cryptic anarchist,recruits him to ruin his company",
+        "category": ["Drama,Psychological thriller,Techno-thriller"],
+        "platform": "Amazon Prime Video",
+        "casting": {
+            "actors": ["Rami Malek,Carly Chaikin,Portia Doubleday, Christian Slater"],
+            "director": ["Sam Esmail"]
+        },
+        "poster":"https://www.moviereviewweekly.com/wp-content/uploads/sites/54/2020/01/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+        "episodeCount": 45,
+        "seasons": 4,
+        "releaseDate": "2015"
    }
         
 ]
