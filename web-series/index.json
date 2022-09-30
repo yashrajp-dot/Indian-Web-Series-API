@@ -1723,6 +1723,53 @@
               
             ],
             "director": ["Marco Ramirez"]
-        },
-        
+       
+   },
+   {
+        "id": 95,
+
+        "name": "MR. ROBOT",
+        "rating": 8.6,
+        "description": "Elliot,a cyber-security engineer suffering from anxiety,work for a corporation and hacks felons by night.Panic strikes him after Mr Robot,a cryptic anarchist,recruits him to ruin his company",
+        "category": ["Drama,Psychological thriller,Techno-thriller"],
+        "platform": "Amazon Prime Video",
+        "casting": {
+            "actors": ["Rami Malek,Carly Chaikin,Portia Doubleday, Christian Slater"],
+            "director": ["Sam Esmail"]
+        "poster":"https://www.moviereviewweekly.com/wp-content/uploads/sites/54/2020/01/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+        "episodeCount": 45,
+        "seasons": 4,
+        "releaseDate": "2015"
+     },    
+     {
+        "id": 96,
+
+        "name": "IamMature",
+        "rating": 8.7,
+        "description": "A school life story where students did everything exept to study",
+        "category": ["Comedy, Drama, Romance"],
+        "platform": "MXPlayer",
+        "casting": {
+        "actors": ["Rashmi Agdekar, Omkar Kulkarni"],
+        "director": ["Orem mistry"]
+        "poster": "https://www.google.com/search?q=immature+poster&rlz=1C1RXQR_enIN994IN994&sxsrf=ALiCzsZjTE8qXxyG8SrLSwgIN_Vp7MgPmQ%3A1664559433871&ei=SSk3Y9_dNPP44-EPq42zmAg&ved=0ahUKEwifpo2Oh736AhVz_DgGHavGDIMQ4dUDCA4&uact=5&oq=immature+poster&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCGAzIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIIxDqAhAnOgQIIxAnOgQILhBDOgQIABBDOgUIABCRAjoLCAAQgAQQsQMQgwE6CgguELEDEIMBEEM6DQguELEDEIMBENQCEEM6CwgAELEDEIMBEJECOgoIABCxAxCDARBDOgcILhCxAxBDOgoIABCABBCHAhAUOgcIABCxAxBDOggIABCABBCxAzoHCAAQyQMQDToGCAAQDRAKOgQIABANOggIABAeEA8QDToICAAQHhANEAU6CAgAEB4QCBANOgYIABAeEBY6CAgAEB4QDxAWSgQIQRgASgQIRhgAUKkEWN0uYNYvaARwAXgFgAHKB4gBrEGSAQswLjkuMy41LTIuNpgBAKABAbABCsgBCMABAQ&sclient=gws-wiz#imgrc=kQgDDDElHAa-JM",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": "2018"
+      }, 
+      {
+        "id": 97,
+
+        "name": "The Broken News",
+        "rating": 7.7,
+        "description": "The Broken News is a 2022 Indian Hindi-language web-series on ZEE5 starring Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar. It is a remake of the British series Press."
+        "platform": "ZEE5",
+        "casting": {
+        "actors": ["Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar."],
+        "director": ["Vinay Waikul"]
+        "poster": "https://m.imdb.com/title/tt20319332/mediaindex/?ref_=tt_mi_sm",
+        "episodeCount": 8,
+        "seasons": 2,
+        "releaseDate": "2022"
+       }  
 ]
