@@ -1724,5 +1724,28 @@
     "seasons": 3,
     "releaseDate": "2018"
 }
-        
+        {
+        "id": 95,
+        "name": "Kota Factory",
+        "rating": 9.2,
+        "description": "Dedicated to Shrimati SL Loney ji, Shri Irodov ji and Maanniya HC Verma ji, 'Kota Factory' is TVF's latest original. India's first 'Black and White' show highlights the problems present day IIT-JEE aspirants face in their day-to-day lives",
+        "category": ["Comedy", "Drama"],
+        "platform": "Netflix",
+        "casting": {
+            "actors": [
+                "Mayur More",
+                "Jitendra Kumar",
+                "Revathi Pillai",
+                "Urvi Singh",
+                "Alam Khan",
+                "Ahsaas Channa",
+                "Ranjan Raj"
+            ],
+            "director": ["Raghav Subbu"]
+        },
+        "poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": "16-04-2019"
+    },
 ]
