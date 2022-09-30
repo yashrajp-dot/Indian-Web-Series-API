@@ -1739,7 +1739,7 @@
     "episodeCount": "4",
     "seasons": 1,
     "releaseDate": "16/06/2022"
-},   
+},
 
 
 
@@ -1757,7 +1757,7 @@
     "poster": "https://www.imdb.com/title/tt11426572/?ref_=tt_mv_close",
     "seasons": 1,
     "releaseDate": "2022"
-  },     
+  },
 
 
    {
@@ -1807,7 +1807,57 @@
         "episodeCount": 26,
         "seasons": 2,
         "releaseDate": "29-01-2021"
-    }
+},
+    {
+        "id": 98,
+        "name": "The Office (India TV Series)",
+        "rating": 5.6,
+        "description": "The (mis)adventures of boss Jagdeep Chaddha and his staff at the paper company Wilkins Chawla, in Delhi.",
+        "category": ["Comedy", "Drama"],
+        "platform": "Disny+ Hotstar",
+        "casting": {
+            "actors": [
+                "Gopal Datt",
+                "Sayandeep Sengupta",
+                "Samridhi Sharma",
+                "Abhinav Sharma",
+                "Priyanka Setia",
+                "Preeti Kochar",
+                "Ranjan Raj"
+            ],
+            "director": ["Bumpy", "Rohan Sippy", "Debbie Rao"]
+        },
+        "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/The_office_poster.jpg",
+        "episodeCount": 27,
+        "seasons": 2,
+        "releaseDate": "28-07-2019"
 
+    },
+
+ {
+        "id": 98,
+        "name": "TVF Tripling",
+        "rating": 8.5,
+        "description": "TVF Tripling is an Indian Hindi-language web series created by The Viral Fever. It was developed by Sameer Saxena and written by Akarsh Khurana and Sumeet Vyas. The series star Vyas in the lead role along with Maanvi Gagroo and Amol Parashar, along with Kunaal Roy Kapur, Nidhi Bisht, Kumud Mishra, and Shernaz Patel. ",
+        "category": ["Feel-Good" , "Drama"],
+        "platform": "TVF Play",
+        "casting": {
+            "actors": [
+                "Sumeet Vyas",
+                "Amol Parashar",
+                "Maanvi Gagroo",
+                "Kunaal Roy Kapur",
+                "Nidhi Bisht"
+            ],
+            "director": ["Rajesh Krishnan" , "Sameer Saxena"]
+        },
+        "poster": "https://www.imdb.com/title/tt6005644/mediaviewer/rm2166123776/?ref_=tt_ov_i",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": {
+                "S1" : "7 September 2016",
+                "S2" : "5 April 2019"
+        }
+    }
 
 ]
