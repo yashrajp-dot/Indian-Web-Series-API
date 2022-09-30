@@ -1723,6 +1723,22 @@
     "episodeCount": "15",
     "seasons": 3,
     "releaseDate": "2018"
-}
+},
+ {
+         "id": 95,
+
+    "name": "wedding season",
+    "rating": 6.3,
+    "description": "Pressured by their parents to find spouses, Asha and Ravi pretend to date during a summer of weddings, only to find themselves falling for each other.",
+    "category": ["Comedy, Drama, Romance"],
+    "platform": "Netflix",
+    "casting": {
+        "actors": ["Pallavi Sharda, Suraj Sharma "],
+        "director": ["Tom Dey"]
+    },
+    "poster": "https://www.imdb.com/title/tt11426572/?ref_=tt_mv_close",
+    "Movie time": "1 hr 38 min",
+    "releaseDate": "2022"
+ },
         
 ]
