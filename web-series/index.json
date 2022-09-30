@@ -1794,4 +1794,24 @@
         "seasons": 1,
         "releaseDate": "16 March 2020"
     },
+    {
+        "id": 99,
+        "name": "Bose: Dead/Alive",
+        "rating": 8.7,
+        "description": "The man. The legend. The mystery. He fascinated us in life, and long after his death. This is the story of India's biggest cover-up: Netaji Subhash Chandra Bose and the mystery of his alleged death.",
+        "category": ["Crime", "Thriller", "Action"],
+        "platform": "ALT Balaji",
+        "casting": {
+            "actors": [
+                "Rajkummar Rao",
+                "Naveen Kasturia",
+                "Edward Sonnenblick"
+            ],
+            "director": ["Pulkit"]
+        },
+        "poster": "https://www.imdb.com/title/tt6883044/",
+        "episodeCount": 9,
+        "seasons": 1,
+        "releaseDate": " 20 November 2017"
+    }
 ]
