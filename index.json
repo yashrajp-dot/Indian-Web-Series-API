@@ -1835,4 +1835,30 @@
         }
     },  
 
+{
+        "id": 98,
+        "name": "The Whistleblower",
+        "rating": 7.5,
+        "description": "Education is one of the top businesses in India and PMT scam is one of those serial scams in Education that gives wings to the scammers who use Proxy and contacts for paper leaks and planned cheating. The series is based on PMT Scam 2013.",
+        "category": ["Thriller" , "Drama"],
+        "platform": "Sony liv",
+        "casting": {
+            "actors": [
+                "Ritvik Bhowmik",
+                "Ankitta sharma",
+                "Riddhi khakhar",
+                "Ashish Verma",
+                "Hemant kher"
+            ],
+            "director": ["Manoj Pillai"]
+        },
+        "poster": "https://www.google.com/search?q=whistleblower+series+poster&tbm=isch&ved=2ahUKEwiD7JeqqL36AhUmk9gFHac0AX0Q2-cCegQIABAA&oq=whistleblower+series+poster&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQGFCHA1iILGCcLmgAcAB4AIABkQKIAbMUkgEGMC4xNy4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=H0w3Y8PgB6am4t4Pp-mE6Ac&bih=704&biw=767#imgrc=zWkSTvW2lTy-rM",
+        "episodeCount": 6,
+        "seasons": 1,
+        "releaseDate": {
+                "S1" : "16 december 2021",
+        }
+    }
+
+
 ]
