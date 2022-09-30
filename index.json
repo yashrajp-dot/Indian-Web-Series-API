@@ -1724,5 +1724,21 @@
     "seasons": 3,
     "releaseDate": "2018"
 }
-        
+  {
+    "id": 100,
+
+    "name": "Bandon Main tha Dam",
+    "rating": 9.0,
+    "description": "This series is based on the win of indian team in Austrelia for test match series",
+    "category": ["real incidence"],
+    "platform": "Voot",
+    "casting": {
+        "actors": ["Indian team"],
+        "director": ["Neeraj Pandey"]
+    },
+    "poster": "https://trakt.tv/shows/bandon-mein-tha-dum",
+    "episodeCount": "4",
+    "seasons": 1,
+    "releaseDate": "16/06/2022"
+}       
 ]
