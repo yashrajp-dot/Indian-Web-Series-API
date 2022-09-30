@@ -1771,27 +1771,20 @@
         "episodeCount": 8,
         "seasons": 2,
         "releaseDate": "2022"
-       }  ,
-{
+       },
+        {
         "id": 98,
-        "name": "Special OPS 1.5",
-        "rating": 8.6,
-        "description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
-        "category": ["Crime", "Thriller", "Action"],
-        "platform": "Hotstar",
+
+        "name": "Jamatara",
+        "rating": 7.3,
+        "description": "A group of small-town young men run a lucrative phishing operation, until a corrupt politician wants in on their scheme -- and a cop wants to fight it."
+        "platform": "Netflix",
         "casting": {
-            "actors": [
-                "Kay Kay Menon",
-                "Karan Tacker",
-                "Gautami Kapoor",
-                "Vinay Pathak",
-                "Meher Vij"
-            ],
-            "director": ["Neeraj Pandey", "Shivam Nair"]
-        },
-        "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
-        "episodeCount": 8,
+        "actors": ["Amit Sial,Sparsh Srivastav"],
+        "director": ["Soumendra Padhi."]
+        "poster": "https://www.imdb.com/title/tt11150912/mediaviewer/rm2010678785/?ref_=tt_ov_i",
+        "episodeCount": 10,
         "seasons": 1,
-        "releaseDate": "16 March 2020"
-    },
+        "releaseDate": "2020"
+       }  
 ]
