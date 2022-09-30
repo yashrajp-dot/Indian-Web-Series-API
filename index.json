@@ -1793,7 +1793,7 @@
         "rating": 8.7,
         "description": "The Family Man is an Indian spy thriller streaming television series created by Raj Nidimoru and Krishna D.K.[1] for the streaming service Amazon Prime Video and features Manoj Bajpayee as Srikant Tiwari, a middle-class man secretly working as an intelligence officer for the Threat Analysis and Surveillance Cell (TASC), a fictitious branch of the National Investigation Agency.",
         "category": ["Indian Spy", "Thriller"],
-        "platform": "amazon prime"
+        "platform": "amazon prime",
         "casting": {
             "actors": [
                 "Mannoj Bajpayee",
