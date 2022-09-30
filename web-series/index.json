@@ -20,7 +20,7 @@
         "poster": "https://www.imdb.com/title/tt9432978/mediaviewer/rm2976277760/",
         "episodeCount": 10,
         "seasons": 2,
-        "releaseDate": "16-04-2019"
+        "releaseDate": "16-04-2020"
     },
     {
         "id": 2,
@@ -1706,7 +1706,7 @@
         "episodeCount": 86,
         "seasons": 2,
         "releaseDate": "2018"
-   }
+   },
  
  {
         "id": 94,
@@ -1731,6 +1731,166 @@
         "episodeCount": 10,
         "seasons": 3,
         "releaseDate": "August 12, 2022"
+   },
+ 
+ {    
+        "id": 94,
+
+        "name": "The Broken News",
+        "rating": 7.7,
+        "description": "The Broken News depicts the rivalry between two Indian news channels based in Mumbai - 'Awaaz Bharati' and 'Josh 24/7'.",
+        "category": ["Comedy, Drama, Romance"],
+        "platform": "ZEE5",
+        "casting": {
+            "actors": [" Dipankar Sanyal,Sonali Bendrei, Radha,Shriya Pilgaonkar ,Pankaj Awasthi,Taaruk Raina"],
+            "director": ["Vinay Waikul"]
+        },
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqd1xAVKsdDeU0ket8zkIGrPgSPnkRqrouQ_A-0pMQV2iLskZNUA3Jj62Lhw&s",
+        "episodeCount": 8,
+        "seasons":12,
+        "releaseDate": "2022"
     },
-        
+    {
+         "id":95,
+          "name": "Crash Course",
+          "rating": 7.3,
+          "description": "Eight new students begin their studies in Kota's two largest rival coaching institutes, finding friendship, love, and competition.",
+          "category": ["Romance","Drama"],
+          "casting": {
+            "actors": ["Anushka Kaushik, Riddhi Kumar"],
+            "director": ["Stan Muller"]    
+          },
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDKKwx-bZ6WvC1Q87RcflET6t7zPZ8rLg8U4PZT8erlwtWlXd",
+            "episodeCount": 10,
+             "seasons": 1,
+           "releaseDate": "2022"
+    
+            
+   },
+ {
+    "id": 94,
+
+    "name": "Please Find Attached",
+    "rating": 8.9,
+    "description": "It is an Office romance working on love as well as their individual development",
+    "category": ["Comedy, Drama, Romance"],
+    "platform": "Amazon Mini TV",
+    "casting": {
+        "actors": ["RAyush Mehra, Barkha Singh"],
+        "director": ["Nayana Shyam"]
+    },
+    "poster": "https://www.imdb.com/title/tt11712598/mediaindex",
+    "episodeCount": "15",
+    "seasons": 3,
+    "releaseDate": "2018"
+},
+ {
+        "id": 94,
+        "name": "The Defenders",
+        "rating": 7.2,
+        "description": "1 ISFJ stands for introverted, sensing, feeling, judging. This personality type is given the nickname "The Protector" or "The Defender," and for good reason. 2 People who have ISFJ personalities are known for being warm-hearted, responsible, and reserved.",
+        "category": ["Science fiction", "Superhero fiction"],
+        "platform": "Netflix",
+        "casting": {
+            "actors": [
+                "Charlie Cox",
+                "Mike Colter",
+                "Elodie Yung",
+                "Krysten Ritter",
+              
+            ],
+            "director": ["Marco Ramirez"]
+       
+   },
+   {
+        "id": 95,
+
+        "name": "MR. ROBOT",
+        "rating": 8.6,
+        "description": "Elliot,a cyber-security engineer suffering from anxiety,work for a corporation and hacks felons by night.Panic strikes him after Mr Robot,a cryptic anarchist,recruits him to ruin his company",
+        "category": ["Drama,Psychological thriller,Techno-thriller"],
+        "platform": "Amazon Prime Video",
+        "casting": {
+            "actors": ["Rami Malek,Carly Chaikin,Portia Doubleday, Christian Slater"],
+            "director": ["Sam Esmail"]
+        "poster":"https://www.moviereviewweekly.com/wp-content/uploads/sites/54/2020/01/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@.jpg"
+        "episodeCount": 45,
+        "seasons": 4,
+        "releaseDate": "2015"
+     },    
+     {
+        "id": 96,
+
+        "name": "IamMature",
+        "rating": 8.7,
+        "description": "A school life story where students did everything exept to study",
+        "category": ["Comedy, Drama, Romance"],
+        "platform": "MXPlayer",
+        "casting": {
+        "actors": ["Rashmi Agdekar, Omkar Kulkarni"],
+        "director": ["Orem mistry"]
+        "poster": "https://www.google.com/search?q=immature+poster&rlz=1C1RXQR_enIN994IN994&sxsrf=ALiCzsZjTE8qXxyG8SrLSwgIN_Vp7MgPmQ%3A1664559433871&ei=SSk3Y9_dNPP44-EPq42zmAg&ved=0ahUKEwifpo2Oh736AhVz_DgGHavGDIMQ4dUDCA4&uact=5&oq=immature+poster&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCGAzIFCAAQhgMyBQgAEIYDOgoIABBHENYEELADOgcIIxDqAhAnOgQIIxAnOgQILhBDOgQIABBDOgUIABCRAjoLCAAQgAQQsQMQgwE6CgguELEDEIMBEEM6DQguELEDEIMBENQCEEM6CwgAELEDEIMBEJECOgoIABCxAxCDARBDOgcILhCxAxBDOgoIABCABBCHAhAUOgcIABCxAxBDOggIABCABBCxAzoHCAAQyQMQDToGCAAQDRAKOgQIABANOggIABAeEA8QDToICAAQHhANEAU6CAgAEB4QCBANOgYIABAeEBY6CAgAEB4QDxAWSgQIQRgASgQIRhgAUKkEWN0uYNYvaARwAXgFgAHKB4gBrEGSAQswLjkuMy41LTIuNpgBAKABAbABCsgBCMABAQ&sclient=gws-wiz#imgrc=kQgDDDElHAa-JM",
+        "episodeCount": 10,
+        "seasons": 2,
+        "releaseDate": "2018"
+      }, 
+      {
+        "id": 97,
+
+        "name": "The Broken News",
+        "rating": 7.7,
+        "description": "The Broken News is a 2022 Indian Hindi-language web-series on ZEE5 starring Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar. It is a remake of the British series Press."
+        "platform": "ZEE5",
+        "casting": {
+        "actors": ["Jaideep Ahlawat, Sonali Bendre, Shriya Pilgaonkar, Jay Upadhyay, Indraneil Sengupta, Taaruk Raina, Aakash Khurana and Kiran Kumar."],
+        "director": ["Vinay Waikul"]
+        "poster": "https://m.imdb.com/title/tt20319332/mediaindex/?ref_=tt_mi_sm",
+        "episodeCount": 8,
+        "seasons": 2,
+        "releaseDate": "2022"
+       }  ,
+      {
+        "id": 98,
+        "name": "Special OPS 1.5",
+        "rating": 8.6,
+        "description": "The story through the eyes of Himmat Singh is based on the inspiration was taken from Nineteen Years of nationally significant events, several espionage missions were undertaken by India in the last two decades.",
+        "category": ["Crime", "Thriller", "Action"],
+        "platform": "Hotstar",
+        "casting": {
+            "actors": [
+                "Kay Kay Menon",
+                "Karan Tacker",
+                "Gautami Kapoor",
+                "Vinay Pathak",
+                "Meher Vij"
+            ],
+            "director": ["Neeraj Pandey", "Shivam Nair"]
+        },
+        "poster": "https://www.imdb.com/title/tt11854694/mediaviewer/rm3405297665/?ref_=tt_ov_i",
+        "episodeCount": 8,
+        "seasons": 1,
+        "releaseDate": "16 March 2020"
+    },
+    {"id":99,
+    "name": "Bose: Dead/Alive",
+    "rating": 8.7,
+    "description": "The man. The legend. The mystery. He fascinated us in life, and long after his death. This is the story of India's biggest cover-up: Netaji Subhash Chandra Bose and the mystery of his alleged death.",
+    "category": ["Biography", "History", "Mystery", "Thriller"],
+    "platform": "ALTBalaji ",
+    "casting": {
+        "actors": ["Rajkummar Rao ",
+        "Naveen Kasturia ",
+        "Patralekha Paul ",
+        "Edward Sonnenblick ",
+        "Alexx O'Nell "
+    ],
+    "director": ["Pulkit"]
+},
+"poster": "https://www.imdb.com/title/tt6883044/mediaviewer/rm2140283136/?ref_=tt_ov_i",
+"episodeCount": 9,
+    "seasons": 1,
+    "releaseDate": "20 November 2017"
+
+
+    },
 ]
